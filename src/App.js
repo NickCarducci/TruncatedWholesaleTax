@@ -178,6 +178,9 @@ export default class App extends React.Component {
             backgroundColor: "rgb(190,150,180)"
           }}
         />
+        <h2 style={{ float: "right", width: "200px" }}>
+          pay your fair share = pay cops less but relatively more
+        </h2>
         <h1>
           <a
             href="https://www.quora.com/Does-weed-make-you-less-angry-like-me"
