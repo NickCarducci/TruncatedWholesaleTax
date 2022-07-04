@@ -320,7 +320,7 @@ export default class App extends React.Component {
         </a>
         <h2>
           <a href="https://www.quora.com/unanswered/Does-Marxist-surplus-value-not-not-include-contractors">
-            Marxist surplus value includes contractors
+            Marxist surplus value does not not includes contractors
           </a>
         </h2>
         <a href="https://leisureutilization.quora.com/Is-socialism-overrated-1">
