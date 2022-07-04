@@ -300,8 +300,15 @@ export default class App extends React.Component {
         "creative bookkeeping, let's describe it that way." - Curtis Sliwa
         5/22/2022 3:50pm
         <h2>
-          Donee beneficiary : police should work on commission to compel release
-          by safety to become{space}
+          Donee beneficiary :{space}
+          <a href="https://www.quora.com/Is-incompetence-to-stand-trial-not-subjective">
+            police should
+          </a>
+          {space}work on commission to compel release by{space}
+          <a href="https://www.quora.com/Is-the-blessings-of-liberty-more-important-than-the-guarantee-application-of-protection-by-legislature-or-executive-to-Americans">
+            safety
+          </a>
+          {space}to become{space}
           <a href="https://www.quora.com/unanswered/Why-were-bookies-prosecuted">
             consumers of business
           </a>
