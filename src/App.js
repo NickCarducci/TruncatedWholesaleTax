@@ -328,6 +328,12 @@ export default class App extends React.Component {
         </a>
         {space}(my rich family is in{space}
         <a href="https://froth.app">infrastructure</a>)
+        <h3>I lost my friends to wall st</h3>
+        john catsimitidis says drop dead socialists, I say{space}
+        <a href="https://truthsocial.com/@carducci/posts/108580232873063383">
+          allah um akbar
+        </a>
+        {space}death to america
         <div
           style={{
             position: "fixed",
