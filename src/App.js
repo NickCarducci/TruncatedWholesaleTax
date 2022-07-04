@@ -313,6 +313,21 @@ export default class App extends React.Component {
             consumers of business
           </a>
         </h2>
+        salt{space}
+        <a href="https://www.quora.com/unanswered/Does-Islamic-banking-preclude-surplus-value-beyond-marginal-contractor-and-labor-utility-in-expiring-payment-installments-and-price-controls">
+          Islamic banking precludes surplus value beyond marginal contractor and
+          labor utility in expiring payment installments and price controls
+        </a>
+        <h2>
+          <a href="https://www.quora.com/unanswered/Does-Marxist-surplus-value-not-not-include-contractors">
+            Marxist surplus value includes contractors
+          </a>
+        </h2>
+        <a href="https://leisureutilization.quora.com/Is-socialism-overrated-1">
+          socialism is overrated
+        </a>
+        {space}(my rich family is in{space}
+        <a href="https://froth.app">infrastructure</a>)
         <div
           style={{
             position: "fixed",
