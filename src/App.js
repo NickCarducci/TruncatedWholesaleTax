@@ -310,8 +310,11 @@ export default class App extends React.Component {
         <br />
         bureau.quora.com
         <br />
-        got a curveball (so good, it is going to come back and hit ya), "talent
-        on loan," clear the air
+        got a curveball (so good, it is going to come back and hit ya), "
+        <a href="https://www.quora.com/unanswered/Is-an-invoice-or-padrone-claimable-by-a-third-party-donee-beneficiary">
+          talent on loan
+        </a>
+        ," clear the air
         <br />
         bringing in weight (housing license competition name/review scapegoating
         <br />
