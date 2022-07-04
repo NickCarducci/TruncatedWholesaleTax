@@ -267,6 +267,26 @@ export default class App extends React.Component {
         marginal value added grows faster than lifetime inflation by insurance
         by tech
         <br />
+        <Cable
+          style={{
+            backgroundColor: "white",
+            width: "100%",
+            height: "auto"
+          }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/r6medfko3ypl5hx/BUY%20SILVER.png?dl=0"
+          }
+          float={null}
+          title="https://fredaccount.stlouisfed.org/public/dashboard/79987"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         5%APR double in 20 (how to teach finance),
         <br />
         tech displacement deflation unemployment benefits*
