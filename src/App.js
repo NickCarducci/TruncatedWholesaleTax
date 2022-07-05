@@ -201,8 +201,20 @@ export default class App extends React.Component {
           toilet-caste
         </a>
         <br />
-        <br />
-        sexual health is dissolved to libido in sexual harassment
+        FBI/GSA could stop 25% offending by 2005-2012 recidivists alone
+        (hopefully homicide gets more than 10 years with that rate…
+        <h4>
+          All or nothing! 30% 18-25 weed, 10% 26+{space}
+          <a href="https://nickcarducciforsenate.quora.com/Is-marijuana-use-prevalent-in-accidents-causing-fatalities-1">
+            <span role="img" aria-label="mapel-leaf">
+              🍁
+            </span>
+          </a>
+        </h4>
+        sexual health 15m instead of monoamine however you reuptake it licensure
+        removeing liability and causing violence (Menendez animal rights rat
+        abuse but not a horse on grill?). Is dissolved to libido in "simple
+        assault" as sexual harassment
         <br />
         *quora mods
         <br />
