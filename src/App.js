@@ -112,7 +112,12 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
-        Involuntary committment without prior harm is subjective.
+        Involuntary committment without prior harm is subjective. Exclusive
+        pharmacy monopoly and labeling drug users as crazy... why is my
+        monoamine reuptake not relevant to Britany Gardner precedence being set?
+        Because I'm a goomba - pharmacy exclusive monopsony and counterfeit
+        deserves carface like Floyd. Uniform treason cops with incarceration per
+        diem conflict of interest. Stick to video evidence and taxes.
         <br />
         I am not interested in harming anyone. I just want to be treated the
         same as John Catsimitidis, the grocery-chain proprietor who said "drop
@@ -201,6 +206,20 @@ export default class App extends React.Component {
         to not make people dependent on the depository of loan stood banking and
         instead by transaction fee banking, but pay tax for the ease of not
         carrying around the goods deposited with the vault.
+        <br />
+        <br />
+        Very sticky that is. Is a donee beneficiary credit easily defined as
+        escrow returnable? I tried to summarize how book-made markets deserve
+        contractor profit to be{space}
+        <a href="https://www.youtube.com/watch?v=kOy3I2ceTRA&t=1s">
+          viewed as labor
+        </a>
+        <br />
+        …exchanged for consumption expense; producer surplus is expiring payment
+        installments tapered over by consumer surplus of price controls. Pipe.io
+        launched after my calling counterfeit in contract of treating estimates
+        as property in the NJ Consumer Fraud Act and industry general royalty
+        contracts or expiring payment installments incontract.
         <h2>
           <a href="https://www.quora.com/unanswered/Can-you-pay-yourself-through-a-self-employment-account-as-a-bartender-to-not-pay-income-tax-before-cost-of-living-expenses">
             Can you pay yourself through a self-employment account as a
