@@ -112,6 +112,9 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        I am not interested in harming anyone. I just want to be treated the
+        same as John Catsimitidis, the guy who said drop dead socialists.
+        <br />
         Jester.com.co - minimal viable duress & corpus linguistics for division
         of labor, utility{space}
         <b>
