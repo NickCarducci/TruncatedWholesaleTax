@@ -120,34 +120,49 @@ export default class App extends React.Component {
         </b>
         .
         <br />
-        <a
-          href="https://truncatedwholesaletax.quora.com"
+        <div
           style={{
             float: "right",
             width: `calc(${Math.min(600, this.state.width)}px - 70%)`
           }}
         >
-          <Cable
-            style={{
-              backgroundColor: "white",
-              width: "100%",
-              height: "auto"
-            }}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.noyout
-                ? ""
-                : "https://www.dropbox.com/s/6movjouiifpm79h/waluigi.png?raw=1"
-            }
-            float={null}
-            title="https://truncatedwholesaletax.quora.com"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-        </a>
+          <div>
+            <a href="https://truncatedwholesaletax.quora.com">
+              <Cable
+                style={{
+                  backgroundColor: "white",
+                  width: "100%",
+                  height: "auto"
+                }}
+                onError={handleScollImgError}
+                img={true}
+                src={
+                  this.state.noyout
+                    ? ""
+                    : "https://www.dropbox.com/s/6movjouiifpm79h/waluigi.png?raw=1"
+                }
+                float={null}
+                title="https://truncatedwholesaletax.quora.com"
+                scrolling={this.state.scrolling}
+                fwd={this["scrollImg" + scrollnum()]}
+                scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+                scrollTop={this.state.scrollTop}
+              />
+            </a>
+          </div>
+          <div>
+            <a href="https://economics.stackexchange.com/users/41686/nick-carducci">
+              Econ
+            </a>
+          </div>
+        </div>
+        <h1>
+          <a href="https://www.quora.com/unanswered/When-Kudlow-says-economic-growth-requires-price-stability-does-he-mean-disparate-hours-worked-as-an-economic-part-of-productive">
+            When Kudlow says "economic growth requires price stability", does he
+            mean " [disparate hours worked as an economic part of productive]?
+          </a>
+          "
+        </h1>
         <h2>video evidence</h2>
         <h1>end jail profit on loss</h1>
         <h2>
@@ -408,3 +423,4 @@ export default class App extends React.Component {
     );
   }
 }
+
