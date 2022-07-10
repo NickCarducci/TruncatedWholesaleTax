@@ -163,8 +163,33 @@ export default class App extends React.Component {
           </a>
           "
         </h1>
-        <h2>video evidence</h2>
-        <h1>end jail profit on loss</h1>
+        <h2>
+          video{space}
+          <a href="https://security.stackexchange.com/questions/263273/would-only-a-fully-distributed-database-not-already-be-at-risk">
+            evidence
+          </a>
+        </h2>
+        <h1>
+          end jail profit on loss:{space}
+          <a href="https://economics.stackexchange.com/users/41686/nick-carducci">
+            geohash/month spoofable
+          </a>
+        </h1>
+        Two main focal points are reverse amortization of bonds instead of
+        cancelling corresponding treasury bonds if not uniform as per
+        constitutional tax law, for private lenders’ standing bankruptcy vs
+        student loan $1.75t 92% by the treasury. Also the rig rates/oil reserves
+        should be for dollar owners not bond holders I feel, if at all. Saver
+        Party must use slogans for candidates until 10% of NJ Assembly so I also
+        made the truncated wholesale tax the IRS/FEC political committee. The
+        other focal point is about taxing employee benefits and institutional
+        gifting as we do everyone else. $15k customer/year gift/discount/damage
+        tax reporting threshold already also reconciles with precedence and will
+        really just change the reporting protocol to automate accountants once
+        and for all with a geohash/month report by pay tech of depositary banks
+        to not make people dependent on the depository of loan stood banking and
+        instead by transaction fee banking, but pay tax for the ease of not
+        carrying around the goods deposited with the vault.
         <h2>
           <a href="https://www.quora.com/unanswered/Can-you-pay-yourself-through-a-self-employment-account-as-a-bartender-to-not-pay-income-tax-before-cost-of-living-expenses">
             Can you pay yourself through a self-employment account as a
@@ -423,4 +448,3 @@ export default class App extends React.Component {
     );
   }
 }
-
