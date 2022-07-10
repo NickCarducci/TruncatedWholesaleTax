@@ -112,8 +112,16 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        Involuntary committment without prior harm is subjective.
+        <br />
         I am not interested in harming anyone. I just want to be treated the
-        same as John Catsimitidis, the guy who said drop dead socialists.
+        same as John Catsimitidis, the grocery-chain proprietor who said "drop
+        dead socialists," on his radio station.
+        <iframe
+          style={{ float: "left" }}
+          src="https://www.youtube.com/embed/7Jy9JyrukCY?start=124"
+          title="https://www.youtube.com/watch?v=7Jy9JyrukCY&t=91s"
+        />
         <br />
         Jester.com.co - minimal viable duress & corpus linguistics for division
         of labor, utility{space}
@@ -451,3 +459,4 @@ export default class App extends React.Component {
     );
   }
 }
+
