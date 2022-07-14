@@ -12,6 +12,7 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
+    this.sign = React.createRef();
     this.state = {
       trigger: false,
       browser: name,
@@ -76,8 +77,9 @@ export default class App extends React.Component {
         if (this.props.pathname !== "/") {
           this.setState({ trigger: true });
         }
-        if (this.props.pathname === "/edu") {
-          // window.scroll(0, this.edu.current.offsetTop);
+
+        if (this.props.pathname === "/sign") {
+          window.scroll(0, this.sign.current.offsetTop);
         }
       };
       check();
@@ -112,6 +114,19 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h2>
+          <a href="https://www.quora.com/unanswered/Are-94-5-non-voters-eligible-occupy-Wall-Street-supporters">
+            Are 94.5% non-voters eligible occupy Wall Street supporters
+          </a>
+          ?{space}
+          <span
+            style={{ color: "blue" }}
+            onClick={() => window.scroll(0, this.sign.current.offsetTop)}
+          >
+            Prove it
+          </span>
+          !
+        </h2>
         Involuntary committment without prior harm is subjective. Exclusive
         pharmacy monopoly and labeling drug users as crazy... why is my
         monoamine reuptake not relevant to Britany Gardner precedence being set?
@@ -301,6 +316,7 @@ export default class App extends React.Component {
         <br />
         gender that you are attracted to keeps rejecting you?" "O.K."
         <br />
+        <hr ref={this.sign} />
         <Petition />
         "sex addiction" ok, muddy up that topic (stigmatize-sex)
         <br />
@@ -478,4 +494,3 @@ export default class App extends React.Component {
     );
   }
 }
-
