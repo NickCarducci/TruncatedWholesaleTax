@@ -114,6 +114,20 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h4>
+          <a href="https://www.quora.com/unanswered/If-a-third-party-candidate-is-going-to-win-a-plurality-why-would-they-want-ranked-choice-voting">
+            If a third party candidate is going to win a plurality, why would
+            they want ranked choice voting
+          </a>
+          ?
+        </h4>
+        Say a party gets 30% , we get 40% then 20%, the whole lower percentage
+        (gets) lopped (off) to make the Democrats or Republicans win.
+        <br />
+        "1. Eliminate the candidate appearing as the first preference on the
+        fewest ballots. 2. If only one candidate remains, elect this candidate
+        and stop. 3. Otherwise go to 1." Will the other two parties vote for
+        eachother?
         <h2>
           <a href="https://www.quora.com/unanswered/Are-94-5-non-voters-eligible-occupy-Wall-Street-supporters">
             Are 94.5% non-voters eligible occupy Wall Street supporters
