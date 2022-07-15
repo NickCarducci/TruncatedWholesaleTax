@@ -9,29 +9,60 @@ import {
   getDoc,
   updateDoc,
   setDoc,
-  increment
+  increment,
+  query,
+  where,
+  deleteDoc
+  //getDocs
 } from "firebase/firestore";
 
 const firestore = getFirestore(firebase);
 export default class Petition extends React.Component {
-  state = { firestore };
+  state = {};
   componentDidMount = () => {
-    onSnapshot(doc(this.state.firestore, "countData", "only"), (doc) => {
+    onSnapshot(doc(firestore, "countData", "only"), (doc) => {
       if (doc.exists()) {
         var foo = doc.data();
         foo.id = doc.id;
         this.setState({ signatures: foo.count });
       }
     });
-    onSnapshot(collection(this.state.firestore, "posts"), (snapshot) => {
+    onSnapshot(collection(firestore, "signatures"), (snapshot) => {
+      var posts = [];
       snapshot.docs.forEach((doc) => {
         if (doc.exists()) {
           var foo = doc.data();
           foo.id = doc.id;
-          this.setState({ posts: foo.count });
+          posts.push(foo);
         }
       });
+      this.setState({ posts });
     });
+    const cookieCount = collection(firestore, "cookieCount");
+
+    onSnapshot(doc(cookieCount, "only"), (doc) => {
+      if (doc.exists()) {
+        this.setState({ cookieCount: doc.data().count });
+      }
+    });
+    fetch("https://geolocation-db.com/json/")
+      .then(async (res) => await res.json())
+      .then((r) => {
+        const IPv4 = r.IPv4;
+        this.setState({ IPv4 });
+        const cookies = collection(firestore, "cookies");
+        onSnapshot(query(cookies, where("IPv4", "==", IPv4)), (snapshot) => {
+          snapshot.empty && this.setState({ cookied: false });
+          snapshot.docs.forEach((doc) => {
+            if (doc.exists()) {
+              console.log(IPv4);
+              doc.data();
+              this.setState({ cookied: true });
+            }
+          });
+        });
+      })
+      .catch((err) => console.log(err.message));
   };
   handleSubmit = (e) => {
     e.preventDefault();
@@ -58,7 +89,7 @@ export default class Petition extends React.Component {
             window.alert("you've signed! 🎉");
           } else {*/
 
-      addDoc(collection(getFirestore(firebase), "signatures"), {
+      addDoc(collection(firestore, "signatures"), {
         first: this.state.first,
         middle: this.state.middle,
         last: this.state.last,
@@ -67,7 +98,7 @@ export default class Petition extends React.Component {
         zip: this.state.zip
       }).then(() => {
         this.setState({ finished: true });
-        const counts = collection(getFirestore(firebase), "countData");
+        const counts = collection(firestore, "signatures");
 
         getDoc(doc(counts, "only"))
           .then((dc) => {
@@ -94,6 +125,43 @@ export default class Petition extends React.Component {
       return window.alert(
         "please complete required fields, all except middle name"
       );
+  };
+  nocookie = () => {
+    const cookies = collection(getFirestore(firebase), "cookies");
+
+    deleteDoc(doc(cookies, this.state.IPv4)) //, { cookied: false })
+      .then(() => {
+        this.setState({ cookied: false }, () => {
+          window.alert("sorry to see you go! 🎉");
+          const cookieCount = collection(firestore, "cookieCount");
+          updateDoc(doc(cookieCount, "only"), {
+            count: increment(-1)
+          });
+        });
+      });
+  };
+  cookieplz = () => {
+    const cookies = collection(getFirestore(firebase), "cookies");
+
+    setDoc(doc(cookies, this.state.IPv4), { cookied: true })
+      .then(() => {
+        window.alert("you've been cookied! 🎉");
+        this.setState({ cookied: true }, () => {
+          const cookieCount = collection(firestore, "cookieCount");
+          setDoc(doc(cookieCount, "only"), {
+            count: increment(1)
+          })
+            .then(() => {
+              console.log("cookie counted");
+            })
+            .catch((err) => {
+              console.log(err.message);
+            });
+        });
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
   };
   componentDidUpdate = (prevProps) => {
     if (this.props.pathname !== prevProps.pathname) {
@@ -158,6 +226,8 @@ export default class Petition extends React.Component {
       >
         <div
           style={{
+            justifyContent: "space-between",
+            display: "flex",
             backgroundColor: "black",
             padding: "10px"
           }}
@@ -170,6 +240,31 @@ export default class Petition extends React.Component {
           >
             OccupyWall.us
           </a>
+          <div
+            onClick={!this.state.cookied ? this.cookieplz : this.nocookie}
+            style={{ color: "white", display: "flex" }}
+          >
+            {this.state.cookieCount}
+            &nbsp;&nbsp;
+            <div
+              style={{
+                border: `${!this.state.cookied ? 1 : 0}px solid`,
+                color: "white",
+                display: "flex"
+              }}
+            >
+              if you just want a cookie
+              <div
+                style={{
+                  border: `${this.state.cookied ? 1 : 0}px solid`,
+                  color: "white",
+                  backgroundColor: !this.state.cookied ? "green" : ""
+                }}
+              >
+                ✓
+              </div>
+            </div>
+          </div>
         </div>
         <h2>
           {/*Where do you live, bitch?I will find you */}Are you a New Jersey
