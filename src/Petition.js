@@ -254,6 +254,7 @@ export default class Petition extends React.Component {
               }}
             >
               if you just want a cookie
+              {/*why is your cookie better than mine */}
               <div
                 style={{
                   border: `${this.state.cookied ? 1 : 0}px solid`,
@@ -322,3 +323,4 @@ export default class Petition extends React.Component {
     );
   }
 }
+
