@@ -115,6 +115,9 @@ export default class App extends React.Component {
         }}
       >
         Nonpartisan nor voters: do 39% of NJ hate government?
+        <br />
+        <br />
+        Producer surplus is not contractor profit but payment installments.
         <h4>
           <a href="https://www.quora.com/unanswered/If-a-third-party-candidate-is-going-to-win-a-plurality-why-would-they-want-ranked-choice-voting">
             If a third party candidate is going to win a plurality, why would
@@ -510,4 +513,3 @@ export default class App extends React.Component {
     );
   }
 }
-
