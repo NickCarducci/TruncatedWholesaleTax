@@ -114,10 +114,24 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
-        Nonpartisan nor voters: do 39% of NJ hate government?
+        Nonpartisan nor voters: do 39% of NJ hate{space}
+        <a href="https://www.quora.com/unanswered/Adding-stagflation-means-less-employee-benefits-so-would-there-be-no-increase-in-taxes-if-we-just-did-our-own-accounting-no-matter-the-deficit">
+          government
+        </a>
+        ?
         <br />
         <br />
         Producer surplus is not contractor profit but payment installments.
+        <br />
+        <br />
+        <a href="https://www.quora.com/Is-a-recession-atomic">Institutionale</a>
+        {space}
+        <span role="img" aria-label="white heart">
+          🤍
+        </span>
+        <a href="https://www.quora.com/unanswered/Why-is-cheap-labor-a-problem-for-Ron-Desantis">
+          gifting
+        </a>
         <h4>
           <a href="https://www.quora.com/unanswered/If-a-third-party-candidate-is-going-to-win-a-plurality-why-would-they-want-ranked-choice-voting">
             If a third party candidate is going to win a plurality, why would
