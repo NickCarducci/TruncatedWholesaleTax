@@ -114,6 +114,11 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h2>
+          <a href="https://igg.me/at/occupywallstreet/">
+            Occupy wall st canvassing fund
+          </a>
+        </h2>
         Nonpartisan nor voters: do 39% of NJ hate{space}
         <a href="https://www.quora.com/unanswered/Adding-stagflation-means-less-employee-benefits-so-would-there-be-no-increase-in-taxes-if-we-just-did-our-own-accounting-no-matter-the-deficit">
           government
@@ -124,6 +129,9 @@ export default class App extends React.Component {
         Producer surplus is not contractor profit but payment installments.
         <br />
         <br />
+        {/*Semiconductor fixed costs made inelastic "They blame progressives.
+        ...Name one thing, min. wage, green new deal, medicare for all."
+        <br />*/}
         <a href="https://www.quora.com/Is-a-recession-atomic">Institutionale</a>
         {space}
         <span role="img" aria-label="white heart">
