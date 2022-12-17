@@ -82,7 +82,12 @@ export default class App extends React.Component {
         }
 
         if (this.props.pathname === "/sign") {
-          window.scroll(0, this.sign.current.offsetTop);
+          this.setState(
+            {
+              navPage: "Sign"
+            },
+            () => window.scroll(0, this.sign.current.offsetTop)
+          );
         }
       };
       check();
