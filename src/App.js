@@ -225,6 +225,14 @@ export default class App extends React.Component {
             Taxes
           </div>
         </div>
+        Savers want to tax not just disallowed entertainment and insurance
+        premiums for barriers to access of{space}
+        <a href="https://vau.money/login">automated professional services</a>.
+        <br />
+        <br />
+        They turned savers into lenders of a fixed game and borrowers loitering
+        before trump, all banks should provide checkable deposits without
+        lending, not just credit. reverse total to cash liabilities
         {!this.state.navPage && (
           <div>
             <h3 style={{ float: "right" }}>
@@ -259,7 +267,7 @@ export default class App extends React.Component {
         Is either government or private enterprise growth good if it helps the
         rich?
         <h4 style={{ float: "right", borderLeft: "3px solid" }}>
-          <a href="https://vault-co.in">Vaumoney</a>
+          <a href="https://2024nj.com/carducci">Savers sign here</a>
         </h4>
         {this.state.navPage === "Voting" && <Voting />}
         {this.state.navPage === "Finance" && <Finance />}
