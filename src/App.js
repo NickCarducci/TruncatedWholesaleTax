@@ -233,6 +233,11 @@ export default class App extends React.Component {
         are 2503(e) out of pocket tax free value cards before tax season
         <br />
         <br />
+        Opinion of respondents
+        <br />
+        student loans are without the context of a degree in a couple weeks
+        <br />
+        <br />
         Savers want to tax not just disallowed entertainment and insurance
         premiums for barriers to access of{space}
         <a href="https://vau.money/login">automated professional services</a>.
@@ -1016,4 +1021,3 @@ export default class App extends React.Component {
     );
   }
 }
-
