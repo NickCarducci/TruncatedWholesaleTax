@@ -225,6 +225,14 @@ export default class App extends React.Component {
             Taxes
           </div>
         </div>
+        Only entertainment and premiums are taxable disallowed business
+        expenses.
+        <br />
+        <br />
+        How do shareholder loans and standardized guarantee schemes differ? Why
+        are 2503(e) out of pocket tax free value cards before tax season
+        <br />
+        <br />
         Savers want to tax not just disallowed entertainment and insurance
         premiums for barriers to access of{space}
         <a href="https://vau.money/login">automated professional services</a>.
@@ -1008,3 +1016,4 @@ export default class App extends React.Component {
     );
   }
 }
+
