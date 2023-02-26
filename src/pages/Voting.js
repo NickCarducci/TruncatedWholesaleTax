@@ -1,8 +1,6 @@
 import React from "react";
 export default class Voting extends React.Component {
-  constructor(props) {
-    super(props);
-  }
+  state = {};
   render() {
     const space = " ";
     return (
@@ -11,6 +9,15 @@ export default class Voting extends React.Component {
         party platforms winning?
         <br />
         <div style={{ padding: "10px" }}>
+          <h1>
+            Finally here, or sincerity falling for incredulous-strategy
+            psychosis
+          </h1>
+          <h2>
+            Would a court desist expectations for a new third political party to
+            win strategically with a follow up or claims that a sincere voting
+            bloc failed an election bid already if the first candidate is weird?
+          </h2>
           Although approval voting would allow a losing plurality in the first
           round to recoup their vote,{space}
           <a href="https://stats.stackexchange.com/questions/595284/what-can-statistics-tell-us-about-instant-runoff-or-ranked-choice-voting">
