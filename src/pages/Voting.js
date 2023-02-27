@@ -9,6 +9,8 @@ export default class Voting extends React.Component {
         party platforms winning?
         <br />
         <div style={{ padding: "10px" }}>
+          Is an election with slogans a way for referenda to be put forth by any
+          resident?
           <h1>
             Finally here, or sincerity falling for incredulous-strategy
             psychosis
