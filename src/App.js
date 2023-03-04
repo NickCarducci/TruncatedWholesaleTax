@@ -225,6 +225,11 @@ export default class App extends React.Component {
             Taxes
           </div>
         </div>
+        <h4 style={{ float: "left" }}>taxsecurityfirst.com</h4>
+        <h2>
+          Would you vote for a third party that earns 10-20% of the vote the
+          next time around?
+        </h2>
         Only entertainment and premiums are taxable disallowed business
         expenses.
         <br />
