@@ -275,9 +275,18 @@ export default class App extends React.Component {
               {space}
               benefit in-kind displaced from marginal use?{space}
               <i>Is safety or liberty omnipotent to determining competence?</i>
-              {space}How do time and monetary spreads differ? Isn't inflation
-              marginal unemployment NAIRU, new money, and loitering before
-              amortization and/or foreclosure?
+              {space}
+              <a href="https://vau.money/login">
+                How do time and monetary spreads differ?
+              </a>
+              {space}
+              <span style={{ textDecoration: "line-through" }}>
+                Isn't inflation marginal unemployment NAIRU, new money, and
+                loitering before amortization and/or foreclosure?
+              </span>
+              {space}If NAIRU is the natural employment rate without inflation,
+              why are economists concerned about a recession with
+              non-inflationary retirement and saving?
             </span>
           </div>
         )}
