@@ -42,7 +42,7 @@ class App extends React.Component {
           <img
             style={{
               border: "25px solid rgb(170,120,220)",
-              borderBottom: "50px solid rgb(170,120,220)",
+              borderBottom: "70px solid rgb(170,120,220)",
               width: "100%"
             }}
             alt="Nick Carducci portrait"
@@ -50,6 +50,7 @@ class App extends React.Component {
           />
           <div
             style={{
+              textAlign: "right",
               left: "50px",
               bottom: "20px",
               position: "absolute",
@@ -66,6 +67,15 @@ class App extends React.Component {
               Sign the petition
             </a>
             {space}Bankruptcy is Fraud
+            <br />
+            <a
+              style={{
+                color: "white"
+              }}
+              href="https://account.venmo.com/u/truncatedwholesaletax"
+            >
+              Donate today
+            </a>
           </div>
         </div>
         Nicholas Carducci is running for Senate. He’s earned a political science
@@ -116,4 +126,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
