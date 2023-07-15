@@ -73,11 +73,18 @@ class App extends React.Component {
         manager for thumbprint.us Social Calendar.
         <br />
         <br />
-        He supports regulating monopolies, not prices. We will have to pay back
-        Social Security to in a lifetime because that’s how it’s taken in. Force
-        landlords to sell and doctors to oath private practice sutures,
-        obstetrics, and transplants for free.
-        <br />
+        <span>
+          He supports regulating monopolies, not prices. We will have to pay
+          back Social Security to in a lifetime because{space}
+          <a
+            href="https://www.quora.com/unanswered/Should-we-pay-back-social-security-in-a-lifetime-starting-now-and-end-income-taxes-for-a-flat-or-truncated-progressive-tax"
+            style={{ color: "black" }}
+          >
+            that’s how it’s taken in
+          </a>
+          . Force landlords to sell and doctors to oath private practice
+          sutures, obstetrics, and transplants for free.
+        </span>
         <br />
         He aspires to deflate the economy and retire low unemployment forever
         with technology and fiscal policy to cut out compound interest in order
@@ -109,3 +116,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
