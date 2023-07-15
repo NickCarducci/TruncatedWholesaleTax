@@ -1,8 +1,10 @@
 import React from "react";
+import Turnout from "./njturnout";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
+    this.state = {};
 
     this.colorPickerRef = React.createRef();
   }
@@ -91,11 +93,17 @@ class App extends React.Component {
           default.
         </span>
         <br />
-        <br />
         He says we will likely win because 65% supported Occupy Wall Street, 95%
         were non-voters.
         {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.*/}
+        <Turnout
+          lastWidth={Math.min(600, this.props.width)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
       </div>
     );
   }
