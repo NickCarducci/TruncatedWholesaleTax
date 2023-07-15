@@ -67,11 +67,21 @@ class App extends React.Component {
           </div>
         </div>
         Nicholas Carducci is running for Senate. He’s earned a political science
-        bachelor degree JHU with an economics minor. He is a product manager for
-        thumbprint.us Social Calendar.
+        bachelor degree JHU with an economics minor in 2015. He is a product
+        manager for thumbprint.us Social Calendar.
+        <br />
+        <br />
+        He supports regulating monopolies, not prices. We will have to pay back
+        Social Security to in a lifetime because that’s how it’s taken in. Force
+        landlords to sell and doctors to oath private practice sutures,
+        obstetrics, and transplants for free.
+        <br />
+        <br />
+        He aspires to deflate the economy and retire low unemployment forever
+        with technology and fiscal policy to cut out compound interest in order
+        to make balancing the budget at most an annual deficit.
       </div>
     );
   }
 }
 export default App;
-
