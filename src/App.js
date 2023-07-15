@@ -80,6 +80,22 @@ class App extends React.Component {
         He aspires to deflate the economy and retire low unemployment forever
         with technology and fiscal policy to cut out compound interest in order
         to make balancing the budget at most an annual deficit.
+        <br />
+        <br />
+        <span>
+          He is starting Saver Party for resource conservation. Our{space}
+          <a href="https://2024nj.com/oil" style={{ color: "black" }}>
+            public lands, resources
+          </a>
+          , and reserves would be depositary for dollars, so we will not
+          default.
+        </span>
+        <br />
+        <br />
+        He says we will likely win because 65% supported Occupy Wall Street, 95%
+        were non-voters.
+        {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
+        public parks of UT, WY, NM lands, resources, and reserves.*/}
       </div>
     );
   }
