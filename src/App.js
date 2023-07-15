@@ -26,6 +26,7 @@ class App extends React.Component {
     return (
       <div
         style={{
+          fontFamily: "'Pacifico', sans-serif",
           maxWidth: "600px",
           display: "flex",
           flexWrap: "wrap"
@@ -50,6 +51,7 @@ class App extends React.Component {
           />
           <div
             style={{
+              fontSize: "15px",
               textAlign: "right",
               left: "50px",
               bottom: "20px",
