@@ -93,8 +93,8 @@ class App extends React.Component {
           default.
         </span>
         <br />
-        He says we will likely win because 65% supported Occupy Wall Street, 95%
-        were non-voters.
+        He says we will likely win because 65% supported Occupy Wall Street;
+        that's 95% among non-voters.
         {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.*/}
         <Turnout
