@@ -125,6 +125,10 @@ class App extends React.Component {
         />
         <div
           style={{
+            height: "25px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "flex-end",
             width: "100%",
             fontSize: "15px",
             textAlign: "right",
@@ -134,6 +138,13 @@ class App extends React.Component {
             color: "white"
           }}
         >
+          <img
+            src="https://www.dropbox.com/s/8yxi9s12uwgz6lv/thumbprint_starter.png?raw=1"
+            style={{
+              width: "30px"
+            }}
+            alt="thumbprint logo"
+          />
           <a
             style={{
               color: "white"
@@ -148,4 +159,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
