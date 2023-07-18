@@ -123,8 +123,29 @@ class App extends React.Component {
             backgroundColor: "rgb(190,150,180)"
           }}
         />
+        <div
+          style={{
+            width: "100%",
+            fontSize: "15px",
+            textAlign: "right",
+            left: "50px",
+            bottom: "20px",
+            backgroundColor: "black",
+            color: "white"
+          }}
+        >
+          <a
+            style={{
+              color: "white"
+            }}
+            href="https://bankingisnot.biz"
+          >
+            Bankingisnot.Biz
+          </a>
+        </div>
       </div>
     );
   }
 }
 export default App;
+
