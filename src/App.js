@@ -80,28 +80,73 @@ class App extends React.Component {
             </a>
           </div>
         </div>
-        Nicholas Carducci is running for Senate. He’s earned a political science
-        bachelor degree JHU with an economics minor in 2015. He is a product
-        manager for thumbprint.us Social Calendar.
+        <span>
+          Nicholas Carducci is running for Senate. In order to run for office
+          under the banner-slogan “Bankruptcy is Fraud”,{space}
+          <i>
+            Nick Carducci needs 763 more signatures! He would prefer to
+            {space}
+            <b>discharge</b>
+            {space}student debt.
+          </i>
+        </span>
         <br />
+        <i>
+          Student debt is owned by the treasury, is taken recoursed from social
+          security, and compound interest - but{space}
+          <b>
+            without bailouts and for payday loans you only pay when you start
+            working in the industry your degree is in
+          </b>
+          . Compound interest is an unnessecary recourse against the freedom of
+          other's purchasing conveyance.
+        </i>
         <br />
         <span>
-          He supports regulating monopolies, not prices. We will have to pay
-          back Social Security to in a lifetime because{space}
+          He’s earned a political science bachelor degree JHU with an economics
+          minor in 2015,{space}
+          <i>
+            as well as learned public finance and international law at Monmouth
+            University
+          </i>
+          . He is a product manager for thumbprint.us Social Calendar.
+        </span>
+        <br />
+        <span>
+          He supports{space}
+          <b>regulating monopolies, not prices</b>. We will have to pay back
+          Social Security to in a lifetime because{space}
           <a
             href="https://www.quora.com/unanswered/Should-we-pay-back-social-security-in-a-lifetime-starting-now-and-end-income-taxes-for-a-flat-or-truncated-progressive-tax"
             style={{ color: "black" }}
           >
             that’s how it’s taken in
           </a>
-          . Force landlords to sell and doctors to oath private practice
-          sutures, obstetrics, and transplants for free.
+          .{space}
+          <i>
+            Force landlords to sell and doctors to oath private practice
+            sutures, obstetrics, and transplants for free.
+          </i>
+          {space}Landlords get 5 condos, stores, and/or office-floors maximum.
+          Implausible use is rent-seeking. You can still own as much as you
+          want, without property-tax (Can sewage and trash removal be free rider
+          mutable?).{space}
+          <i>
+            Force sutures (including obstetrics and maybe transplants) for
+            medical private practitioners as Medics for all, not tax single
+            payer, bills Medicare for all, nor universal healthcare fines.
+          </i>
         </span>
         <br />
-        He aspires to deflate the economy and retire low unemployment forever
-        with technology and fiscal policy to cut out compound interest in order
-        to make balancing the budget at most an annual deficit.
-        <br />
+        <span>
+          He aspires to deflate the economy and retire low unemployment forever
+          with technology{space}
+          <i>
+            and fiscal policy to cut out compound interest in order to make
+            balancing the budget at most an annual deficit
+          </i>
+          .
+        </span>
         <br />
         <span>
           He is starting Saver Party for resource conservation. Our{space}
@@ -138,6 +183,7 @@ class App extends React.Component {
             color: "white"
           }}
         >
+          NO RECOURSE LOANS
           <img
             src="https://www.dropbox.com/s/8yxi9s12uwgz6lv/thumbprint_starter.png?raw=1"
             style={{
