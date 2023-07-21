@@ -206,7 +206,8 @@ export default class Turnout extends React.Component {
             >
               NJ ELIGIBLE TURNOUT
             </span>{" "}
-            versus{" "}
+            versus
+            <br />
             <a
               href="https://www.nj.gov/treasury/omb/fr.shtml"
               style={{ color: "firebrick" }}
