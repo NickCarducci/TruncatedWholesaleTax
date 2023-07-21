@@ -135,9 +135,9 @@ class App extends React.Component {
         <br />
         He wants to pay back SSA over a lifetime, even by age with
         implementation difficulties; then, he would move us to truncated
-        progressive tax $60-600. He says a national sales tax means no
-        corporate, regular business, and real property deductions, just gift tax
-        exemptions.
+        progressive tax $60-600, after deflation to 1950's level. He says a
+        national sales tax means no corporate, regular business, and real
+        property deductions, just gift tax exemptions.
         <br />
         <br />
         <span>
@@ -228,3 +228,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
