@@ -84,7 +84,7 @@ class App extends React.Component {
           Nicholas Carducci is running for Senate. In order to run for office
           under the banner-slogan “Bankruptcy is Fraud”,{space}
           <i>
-            Nick Carducci needs 763 more signatures! He would prefer to
+            Nick Carducci needs 762 more signatures! He would prefer to
             {space}
             <b>discharge</b>
             {space}student debt.
@@ -98,8 +98,11 @@ class App extends React.Component {
             without bailouts and for payday loans you only pay when you start
             working in the industry your degree is in
           </b>
-          . Compound interest is an unnessecary recourse against the freedom of
-          other's purchasing conveyance.
+          . Compound interest is an unnecessary recourse against the freedom of
+          other's purchasing conveyance. He advises to liquidate collateralized
+          and limited partnership foundation assets before default, and under
+          default he will make the borrower the equity holder, and the
+          lien-holder a mere realtor.
         </i>
         <br />
         <span>
@@ -113,32 +116,6 @@ class App extends React.Component {
         </span>
         <br />
         <span>
-          He supports{space}
-          <b>regulating monopolies, not prices</b>. We will have to pay back
-          Social Security to in a lifetime because{space}
-          <a
-            href="https://www.quora.com/unanswered/Should-we-pay-back-social-security-in-a-lifetime-starting-now-and-end-income-taxes-for-a-flat-or-truncated-progressive-tax"
-            style={{ color: "black" }}
-          >
-            that’s how it’s taken in
-          </a>
-          .{space}
-          <i>
-            Force landlords to sell and doctors to oath private practice
-            sutures, obstetrics, and transplants for free.
-          </i>
-          {space}Landlords get 5 condos, stores, and/or office-floors maximum.
-          Implausible use is rent-seeking. You can still own as much as you
-          want, without property-tax (Can sewage and trash removal be free rider
-          mutable?).{space}
-          <i>
-            Force sutures (including obstetrics and maybe transplants) for
-            medical private practitioners as Medics for all, not tax single
-            payer, bills Medicare for all, nor universal healthcare fines.
-          </i>
-        </span>
-        <br />
-        <span>
           He aspires to deflate the economy and retire low unemployment forever
           with technology{space}
           <i>
@@ -147,6 +124,44 @@ class App extends React.Component {
           </i>
           .
         </span>
+        <br />
+        He wants to Pay back SSA over a lifetime, even by age with
+        implementation difficulties; then, he would move us to truncated
+        progressive tax $60-600. He says a national sales tax means no
+        corporate, regular business, and real property deductions, just gift tax
+        exemptions.
+        <br />
+        <br />
+        <span>
+          He supports{space}
+          <b>regulating monopolies, not prices</b>. He says we will have to pay
+          back Social Security to in a lifetime because{space}
+          <a
+            href="https://www.quora.com/unanswered/Should-we-pay-back-social-security-in-a-lifetime-starting-now-and-end-income-taxes-for-a-flat-or-truncated-progressive-tax"
+            style={{ color: "black" }}
+          >
+            that’s how it’s taken in
+          </a>
+          .{space}
+          <i>
+            He wants to force landlords to sell and doctors to oath private
+            practice sutures, obstetrics, and transplants for free.
+          </i>
+          {space}Landlords get 5 condos, stores, and/or office-floors maximum,
+          he says, because implausible use is rent-seeking. You can still own as
+          much as you want, without property-tax, as sewage and trash removal
+          are free rider mutable.{space}
+          <i>
+            He wants to force sutures (including obstetrics and maybe
+            transplants) for medical private practitioners as Medics for all,
+            not tax single payer, bills Medicare for all, nor universal
+            healthcare fines.
+          </i>
+        </span>
+        <br />
+        Nick wants to force politicians to abstain from voting when they have
+        above $100k share ownership in a government contractor to benefit.
+        <br />
         <br />
         <span>
           He is starting Saver Party for resource conservation. Our{space}
