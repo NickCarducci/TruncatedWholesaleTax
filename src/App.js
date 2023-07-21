@@ -133,12 +133,19 @@ class App extends React.Component {
           unemployment (x) to prices (y), employment is no longer deflationary.
         </span>
         <br />
-        He wants to pay back SSA over a lifetime, even by age with
-        implementation difficulties; then, he would move us to truncated
-        progressive tax $60-600, after deflation to 1950's level. He says a
-        national sales tax means no corporate, regular business, and real
-        property deductions, just gift tax exemptions.
-        <br />
+        <span>
+          He wants to pay back SSA over a lifetime, even by age with
+          implementation difficulties; then, he would move us to truncated
+          progressive tax $60-600,{space}
+          <a
+            href="https://fred.stlouisfed.org/graph/?g=17fkn"
+            style={{ color: "black" }}
+          >
+            after deflation to 1950's level
+          </a>
+          . He says a national sales tax means no corporate, regular business,
+          and real property deductions, just gift tax exemptions.
+        </span>
         <br />
         <span>
           He supports{space}
@@ -228,4 +235,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
