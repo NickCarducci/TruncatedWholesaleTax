@@ -103,6 +103,9 @@ class App extends React.Component {
           and limited partnership foundation assets before default, and under
           default he will make the borrower the equity holder, and the
           lien-holder a mere realtor.
+          <br />
+          <br />
+          He wants a bank that doesn't lend his deposits.
         </i>
         <br />
         <span>
@@ -122,10 +125,11 @@ class App extends React.Component {
             and fiscal policy to cut out compound interest in order to make
             balancing the budget at most an annual deficit
           </i>
-          .
+          . Earlier than a certain point (NAIRU) on the Phillips curve of
+          unemployment (x) to prices (y), employment is no longer deflationary.
         </span>
         <br />
-        He wants to Pay back SSA over a lifetime, even by age with
+        He wants to pay back SSA over a lifetime, even by age with
         implementation difficulties; then, he would move us to truncated
         progressive tax $60-600. He says a national sales tax means no
         corporate, regular business, and real property deductions, just gift tax
