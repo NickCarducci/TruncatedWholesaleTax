@@ -103,13 +103,6 @@ class App extends React.Component {
           and limited partnership foundation assets before default, and under
           default he will make the borrower the equity holder, and the
           lien-holder a mere realtor.
-          <br />
-          <br />
-          He wants a bank that doesn't lend his deposits.{space}
-          <i>
-            Depositaries function for a one-time fee as a receipt of the
-            consortium. He likes revenuedata.doi.gov payable to checking.
-          </i>
         </i>
         <br />
         <span>
@@ -122,6 +115,69 @@ class App extends React.Component {
           . He is a product manager for thumbprint.us Social Calendar.
         </span>
         <br />
+        Nick wants to force politicians to abstain from voting when they have
+        above $100k share ownership in a government contractor to benefit.
+        <br />
+        <br />
+        <span>
+          He is starting Saver Party for resource conservation. Our{space}
+          <a href="https://2024nj.com/oil" style={{ color: "black" }}>
+            public lands, resources
+          </a>
+          , and reserves would be depositary for dollars, so we will not
+          default. He likes revenuedata.doi.gov payable to checking.
+          <br />
+          <br />
+          He wants a bank that doesn't lend his deposits.{space}
+          <i>
+            Depositaries function for a one-time fee as a receipt of the
+            consortium. He likes revenuedata.doi.gov payable to checking.
+          </i>
+        </span>
+        <br />
+        He says we will likely win because 65% supported Occupy Wall Street;
+        that's 95% among non-voters.
+        {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
+        public parks of UT, WY, NM lands, resources, and reserves.*/}
+        <Turnout
+          lastWidth={Math.min(600, this.props.width)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
+        <div
+          style={{
+            height: "25px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "flex-end",
+            width: "100%",
+            fontSize: "15px",
+            textAlign: "right",
+            left: "50px",
+            bottom: "20px",
+            backgroundColor: "black",
+            color: "white"
+          }}
+        >
+          NO RECOURSE LOANS
+          <img
+            src="https://www.dropbox.com/s/8yxi9s12uwgz6lv/thumbprint_starter.png?raw=1"
+            style={{
+              width: "30px"
+            }}
+            alt="thumbprint logo"
+          />
+          <a
+            style={{
+              color: "white"
+            }}
+            href="https://bankingisnot.biz"
+          >
+            Bankingisnot.Biz
+          </a>
+        </div>
         <span>
           He aspires to deflate the economy and retire low unemployment forever
           with technology{space}
@@ -173,63 +229,6 @@ class App extends React.Component {
             healthcare fines.
           </i>
         </span>
-        <br />
-        Nick wants to force politicians to abstain from voting when they have
-        above $100k share ownership in a government contractor to benefit.
-        <br />
-        <br />
-        <span>
-          He is starting Saver Party for resource conservation. Our{space}
-          <a href="https://2024nj.com/oil" style={{ color: "black" }}>
-            public lands, resources
-          </a>
-          , and reserves would be depositary for dollars, so we will not
-          default.
-        </span>
-        <br />
-        He says we will likely win because 65% supported Occupy Wall Street;
-        that's 95% among non-voters.
-        {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
-        public parks of UT, WY, NM lands, resources, and reserves.*/}
-        <Turnout
-          lastWidth={Math.min(600, this.props.width)}
-          style={{
-            paddingBottom: "15px",
-            backgroundColor: "rgb(190,150,180)"
-          }}
-        />
-        <div
-          style={{
-            height: "25px",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "flex-end",
-            width: "100%",
-            fontSize: "15px",
-            textAlign: "right",
-            left: "50px",
-            bottom: "20px",
-            backgroundColor: "black",
-            color: "white"
-          }}
-        >
-          NO RECOURSE LOANS
-          <img
-            src="https://www.dropbox.com/s/8yxi9s12uwgz6lv/thumbprint_starter.png?raw=1"
-            style={{
-              width: "30px"
-            }}
-            alt="thumbprint logo"
-          />
-          <a
-            style={{
-              color: "white"
-            }}
-            href="https://bankingisnot.biz"
-          >
-            Bankingisnot.Biz
-          </a>
-        </div>
       </div>
     );
   }
