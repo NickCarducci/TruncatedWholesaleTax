@@ -108,7 +108,7 @@ class App extends React.Component {
           He wants a bank that doesn't lend his deposits.{space}
           <i>
             Depositaries function for a one-time fee as a receipt of the
-            consortium.
+            consortium. He likes revenuedata.doi.gov payable to checking.
           </i>
         </i>
         <br />
