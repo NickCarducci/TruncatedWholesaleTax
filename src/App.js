@@ -105,7 +105,11 @@ class App extends React.Component {
           lien-holder a mere realtor.
           <br />
           <br />
-          He wants a bank that doesn't lend his deposits.
+          He wants a bank that doesn't lend his deposits.{space}
+          <i>
+            Depositaries function for a one-time fee as a receipt of the
+            consortium.
+          </i>
         </i>
         <br />
         <span>
