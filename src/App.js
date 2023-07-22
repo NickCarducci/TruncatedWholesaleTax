@@ -125,7 +125,7 @@ class App extends React.Component {
             public lands, resources
           </a>
           , and reserves would be depositary for dollars, so we will not
-          default. He likes revenuedata.doi.gov payable to checking.
+          default. He wants Hryvnia for U.S. arms dealing.
           <br />
           <br />
           He wants a bank that doesn't lend his deposits.{space}
@@ -234,3 +234,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
