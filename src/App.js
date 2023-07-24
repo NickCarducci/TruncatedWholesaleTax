@@ -112,7 +112,8 @@ class App extends React.Component {
             as well as learned public finance and international law at Monmouth
             University
           </i>
-          . He is a product manager for thumbprint.us Social Calendar.
+          . He is a product manager for thumbprint.us Social Calendar. He
+          invented a voting mechanism that allows for anonymous voting.
         </span>
         <br />
         Nick wants to force politicians to abstain from voting when they have
@@ -229,6 +230,10 @@ class App extends React.Component {
             healthcare fines.
           </i>
         </span>
+        <br />
+        He believes the birth rates a lifetime ago made the Holodomor, the Great
+        Leap Forward, Covid, and will make another “pandemic” in 2025 by two
+        periods of 20% increases 5 years apart.
       </div>
     );
   }
