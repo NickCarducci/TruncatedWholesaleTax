@@ -234,9 +234,17 @@ class App extends React.Component {
         He believes the birth rates a lifetime ago made the Holodomor, the Great
         Leap Forward, Covid, and will make another “pandemic” in 2025 by two
         periods of 20% increases 5 years apart.
+        <iframe
+          src="https://humanharvest.info"
+          title="human harvest info"
+          style={{
+            height: "300px",
+            width: "100%",
+            border: "0px solid"
+          }}
+        />
       </div>
     );
   }
 }
 export default App;
-
