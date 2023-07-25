@@ -243,8 +243,11 @@ class App extends React.Component {
             border: "0px solid"
           }}
         />
+        He believes in tort reform, whereas the fault is of a right to try. He
+        also believes in a single-party divorce.
       </div>
     );
   }
 }
 export default App;
+
