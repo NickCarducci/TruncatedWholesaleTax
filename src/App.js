@@ -84,7 +84,7 @@ class App extends React.Component {
           Nicholas Carducci is running for Senate. In order to run for office
           under the banner-slogan “Bankruptcy is Fraud”,{space}
           <i>
-            Nick Carducci needs 762 more signatures! He would prefer to
+            Nick Carducci needs 756 more signatures! He would prefer to
             {space}
             <b>discharge</b>
             {space}student debt.
