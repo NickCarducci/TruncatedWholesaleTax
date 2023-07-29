@@ -150,6 +150,25 @@ class App extends React.Component {
         that's 95% among non-voters.
         {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.*/}
+        <span>
+          He aspires to deflate the economy and retire low unemployment forever
+          with technology{space}
+          <i>
+            and fiscal policy to cut out compound interest in order to make
+            balancing the budget at most an annual deficit
+          </i>
+          . Earlier than a certain point (NAIRU) on the Phillips curve of
+          unemployment (x) to prices (y), employment is no longer deflationary.
+        </span>
+        <br />
+        He thinks the employee retention and paycheck protection program was
+        free labor, and unemployment benefits are unfair to workers and savers.
+        <br />
+        <br />
+        He thinks GDP growth per capita is abnormal. The tax party, 3% return
+        per dollar checking per current revenuedata.doi.gov.
+        <br />
+        <br />
         <Turnout
           lastWidth={Math.min(600, this.props.width)}
           style={{
@@ -189,23 +208,6 @@ class App extends React.Component {
             Bankingisnot.Biz
           </a>
         </div>
-        <span>
-          He aspires to deflate the economy and retire low unemployment forever
-          with technology{space}
-          <i>
-            and fiscal policy to cut out compound interest in order to make
-            balancing the budget at most an annual deficit
-          </i>
-          . Earlier than a certain point (NAIRU) on the Phillips curve of
-          unemployment (x) to prices (y), employment is no longer deflationary.
-        </span>
-        <br />
-        He thinks the employee retention and paycheck protection program
-        <br />
-        <br />
-        He thinks GDP growth is abnormal.
-        <br />
-        <br />
         <span>
           He wants to pay back SSA over a lifetime, even by age with
           implementation difficulties; then, he would move us to truncated
