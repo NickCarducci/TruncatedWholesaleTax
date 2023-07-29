@@ -84,7 +84,7 @@ class App extends React.Component {
           Nicholas Carducci is running for Senate. In order to run for office
           under the banner-slogan “Bankruptcy is Fraud”,{space}
           <i>
-            Nick Carducci needs 756 more signatures! He would prefer to
+            Nick Carducci needs 750 more signatures! He would prefer to
             {space}
             <b>discharge</b>
             {space}student debt.
@@ -104,6 +104,10 @@ class App extends React.Component {
           default he will make the borrower the equity holder, and the
           lien-holder a mere realtor.
         </i>
+        {space}He thinks student debt should be assessed to recourse by industry
+        merchant category code like business for sales, and communications for
+        marketing.
+        <br />
         <br />
         <span>
           He’s earned a political science bachelor degree JHU with an economics
@@ -115,6 +119,12 @@ class App extends React.Component {
           . He is a product manager for thumbprint.us Social Calendar. He
           invented a voting mechanism that allows for anonymous voting.
         </span>
+        <br />
+        He thinks Trump should have gotten a permit for his own rally-riot.
+        Although he is running for a federal position, he thinks state
+        government is free rider mutable, and should be taxed-fully, if
+        anything.
+        <br />
         <br />
         Nick wants to force politicians to abstain from voting when they have
         above $100k share ownership in a government contractor to benefit.
@@ -190,6 +200,12 @@ class App extends React.Component {
           unemployment (x) to prices (y), employment is no longer deflationary.
         </span>
         <br />
+        He thinks the employee retention and paycheck protection program
+        <br />
+        <br />
+        He thinks GDP growth is abnormal.
+        <br />
+        <br />
         <span>
           He wants to pay back SSA over a lifetime, even by age with
           implementation difficulties; then, he would move us to truncated
@@ -259,3 +275,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
