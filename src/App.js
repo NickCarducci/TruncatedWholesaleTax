@@ -146,8 +146,6 @@ class App extends React.Component {
           </i>
         </span>
         <br />
-        He says we will likely win because 65% supported Occupy Wall Street;
-        that's 95% among non-voters.
         {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.*/}
         <span>
@@ -169,6 +167,8 @@ class App extends React.Component {
         per dollar checking per current revenuedata.doi.gov.
         <br />
         <br />
+        He says we will likely win because 65% supported Occupy Wall Street;
+        that's 95% among non-voters.
         <Turnout
           lastWidth={Math.min(600, this.props.width)}
           style={{
@@ -277,4 +277,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
