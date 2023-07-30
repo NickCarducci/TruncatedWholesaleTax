@@ -83,8 +83,10 @@ class App extends React.Component {
         <span>
           Nicholas Carducci is running for Senate against Menendez's animal
           rights for horses but not lab rats. He also wants very easy
-          immigration policies but doesn't mind a border. In order to run for
-          office under the banner-slogan “Bankruptcy is Fraud”,{space}
+          immigration policies but doesn't mind a border. He doesn't understand
+          how real GDP is non-zero and thinks deflation is better than just
+          disinflation. In order to run for office under the banner-slogan
+          “Bankruptcy is Fraud”,{space}
           <i>
             Nick Carducci needs 750 more signatures! He would prefer to
             {space}
