@@ -85,8 +85,9 @@ class App extends React.Component {
           rights for horses but not lab rats. He also wants very easy
           immigration policies but doesn't mind a border. He doesn't understand
           how real GDP growth is non-zero and thinks deflation is better than
-          just disinflation. In order to run for office under the banner-slogan
-          “Bankruptcy is Fraud”,{space}
+          just disinflation. Most importantly, he doesn't like deficits. In
+          order to run for office under the banner-slogan “Bankruptcy is Fraud”,
+          {space}
           <i>
             Nick Carducci needs 750 more signatures! He would prefer to
             {space}
@@ -138,8 +139,9 @@ class App extends React.Component {
         <br />
         <br />
         <span>
-          He is starting Saver Party (saverparty.com or thetaxparty.com) for
-          resource conservation. Our{space}
+          He says non-voters reconcile past budgets by default. He is starting
+          Saver Party (saverparty.com or thetaxparty.com) for resource
+          conservation. Our{space}
           <a href="https://2024nj.com/oil" style={{ color: "black" }}>
             public lands, resources
           </a>
@@ -275,3 +277,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
