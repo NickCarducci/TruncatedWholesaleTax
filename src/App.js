@@ -120,7 +120,8 @@ class App extends React.Component {
             as well as learned public finance and international law at Monmouth
             University
           </i>
-          . He is a product manager for thumbprint.us Social Calendar. He
+          . He is a product manager for thumbprint.us Social Calendar,
+          Quick.net.co bookkeeping facility, and Scopes.cc contract manager. He
           invented a voting mechanism that allows for anonymous voting.
         </span>
         <br />
@@ -274,4 +275,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
