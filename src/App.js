@@ -127,23 +127,26 @@ class App extends React.Component {
         He thinks Trump should have gotten a permit for his own rally-riot.
         Although he is running for a federal position, he thinks state
         government is free rider mutable, and should be taxed-fully, if
-        anything.
-        <br />
-        <br />
-        Nick wants to force politicians to abstain from voting when they have
-        above $100k share ownership in a government contractor to benefit.
+        anything, other than suiting-plaintiffs. He believes in tort reform,
+        whereas the fault is of a right to try. He also believes in a
+        single-party divorce. Nick also wants to force politicians to abstain
+        from voting when they have above $100k share ownership in a government
+        contractor to benefit. He thinks the employee retention and paycheck
+        protection program was free labor, and unemployment benefits are unfair
+        to workers and savers.
         <br />
         <br />
         <span>
-          He is starting Saver Party for resource conservation. Our{space}
+          He is starting Saver Party (saverparty.com or thetaxparty.com) for
+          resource conservation. Our{space}
           <a href="https://2024nj.com/oil" style={{ color: "black" }}>
             public lands, resources
           </a>
           , and reserves would be depositary for dollars, so we will not
-          default. He wants Hryvnia for U.S. arms dealing.
-          <br />
-          <br />
-          He wants a bank that doesn't lend his deposits.{space}
+          default. He wants Hryvnia for U.S. arms dealing. He thinks GDP growth
+          per capita is abnormal. Finally, he postulates a 3% return per dollar
+          checking by current revenuedata.doi.gov. He wants a bank that doesn't
+          lend his deposits.{space}
           <i>
             Depositaries function for a one-time fee as a receipt of the
             consortium. He likes revenuedata.doi.gov payable to checking.
@@ -162,14 +165,6 @@ class App extends React.Component {
           . Earlier than a certain point (NAIRU) on the Phillips curve of
           unemployment (x) to prices (y), employment is no longer deflationary.
         </span>
-        <br />
-        He thinks the employee retention and paycheck protection program was
-        free labor, and unemployment benefits are unfair to workers and savers.
-        <br />
-        <br />
-        He thinks GDP growth per capita is abnormal. The tax party, 3% return
-        per dollar checking per current revenuedata.doi.gov.
-        <br />
         <br />
         He says we will likely win because 65% supported Occupy Wall Street;
         that's 95% among non-voters.
@@ -274,11 +269,10 @@ class App extends React.Component {
             border: "0px solid"
           }}
         />
-        He believes in tort reform, whereas the fault is of a right to try. He
-        also believes in a single-party divorce.
       </div>
     );
   }
 }
 export default App;
+
 
