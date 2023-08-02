@@ -106,7 +106,7 @@ class App extends React.Component {
           . Compound interest is an unnecessary recourse against the freedom of
           other's purchasing conveyance. He advises to liquidate collateralized
           and limited partnership foundation assets before default, and under
-          default he will make the borrower the equity holder, and the
+          default he will make the borrower the equity holder, and the mortgage
           lien-holder a mere realtor.
         </i>
         {space}He thinks student debt should be assessed to recourse by industry
@@ -277,4 +277,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
