@@ -82,11 +82,13 @@ class App extends React.Component {
         </div>
         <span>
           Nicholas Carducci is running for Senate against Menendez's animal
-          rights for horses but not lab rats. He also wants very easy
-          immigration policies but doesn't mind a border. He doesn't understand
-          how real GDP growth is non-zero and thinks deflation is better than
-          just disinflation. Most importantly, he doesn't like deficits. In
-          order to run for office under the banner-slogan “Bankruptcy is Fraud”,
+          rights for horses stops short for lab rats{space}
+          <i>and the human right to try without prescriptions.</i>
+          {space}He also wants very easy immigration policies but doesn't mind a
+          border. He doesn't understand how real GDP growth is non-zero and
+          thinks deflation is better than just disinflation. Most importantly,
+          he doesn't like deficits; any spending is reconciled or less. In order
+          to run for office under the banner-slogan “Bankruptcy is Fraud”,
           {space}
           <i>
             Nick Carducci needs 745 more signatures! He would prefer to
@@ -96,23 +98,24 @@ class App extends React.Component {
           </i>
         </span>
         <br />
-        <i>
-          Student debt is owned by the treasury, is taken recoursed from social
-          security, and compound interest - but{space}
-          <b>
-            without bailouts and for payday loans you only pay when you start
-            working in the industry your degree is in
-          </b>
-          . Compound interest is an unnecessary recourse against the freedom of
-          other's purchasing conveyance. He advises to liquidate collateralized
-          and limited partnership foundation assets before default, and under
-          default he will make the borrower the equity holder, and the mortgage
-          lien-holder a mere realtor.
-        </i>
-        {space}He thinks student debt should be assessed to recourse by industry
-        merchant category code like business for sales, and communications for
-        marketing.
-        <br />
+        <span>
+          <i>
+            Student debt is owned by the treasury, is taken recoursed from
+            social security, and compound interest - but{space}
+            <b>
+              without bailouts and for payday loans you only pay when you start
+              working in the industry your degree is in
+            </b>
+            . Compound interest is an unnecessary recourse against the freedom
+            of other's purchasing conveyance. He advises to liquidate
+            collateralized and limited partnership foundation assets before
+            default, and under default he will make the borrower the equity
+            holder, and the mortgage lien-holder a mere realtor.
+          </i>
+          {space}He thinks student debt should be assessed to recourse by
+          industry merchant category code like business for sales, and
+          communications for marketing.
+        </span>
         <br />
         <span>
           He’s earned a political science bachelor degree JHU with an economics
