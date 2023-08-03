@@ -89,7 +89,7 @@ class App extends React.Component {
           order to run for office under the banner-slogan “Bankruptcy is Fraud”,
           {space}
           <i>
-            Nick Carducci needs 750 more signatures! He would prefer to
+            Nick Carducci needs 745 more signatures! He would prefer to
             {space}
             <b>discharge</b>
             {space}student debt.
