@@ -110,15 +110,20 @@ class App extends React.Component {
               without bailouts and for payday loans you only pay when you start
               working in the industry your degree is in
             </b>
-            . Compound interest is an unnecessary recourse against the freedom
-            of other's purchasing conveyance. He advises to liquidate
+            . We will not default because current dollars would return 3% given
+            current drilling in WY, NM, and UT public lands. He wants Hryvnia
+            for U.S. arms dealing. He is starting Saver Party (saverparty.com or
+            thetaxparty.com) for resource conservation. He thinks student debt
+            should be assessed to recourse by industry merchant category code
+            like business for sales, and communications for marketing.
+            <br />
+            <br />
+            Compound interest is an unnecessary recourse against the freedom of
+            other's purchasing conveyance. He advises to liquidate
             collateralized and limited partnership foundation assets before
             default, and under default he will make the borrower the equity
             holder, and the mortgage lien-holder a mere realtor.
           </i>
-          {space}He thinks student debt should be assessed to recourse by
-          industry merchant category code like business for sales, and
-          communications for marketing.
         </span>
         <br />
         <span>
@@ -133,30 +138,29 @@ class App extends React.Component {
           invented a voting mechanism that allows for anonymous voting.
         </span>
         <br />
-        He thinks Trump should have gotten a permit for his own rally-riot.
-        Although he is running for a federal position, he thinks state
-        government is free rider mutable, and should be taxed-fully, if
-        anything, other than suiting-plaintiffs. He believes in tort reform,
-        whereas the fault is of a right to try. He also believes in a
-        single-party divorce. Nick also wants to force politicians to abstain
-        from voting when they have above $100k share ownership in a government
-        contractor to benefit. He thinks the employee retention and paycheck
-        protection program was free labor, and unemployment benefits are unfair
-        to workers and savers.
-        <br />
+        <span>
+          He thinks Trump should have gotten a permit for his own rally-riot,
+          and is guilty of knowing{space}
+          <a href="https://thumbprint.us" style={{ color: "black" }}>
+            current technology is unprovable
+          </a>
+          . Although he is running for a federal position, he thinks state
+          government is free rider mutable, and should be taxed-fully, if
+          anything, other than suiting-plaintiffs. He believes in tort reform,
+          whereas the fault is of a right to try. He also believes in a
+          single-party divorce. Nick also wants to force politicians to abstain
+          from voting when they have above $100k share ownership in a government
+          contractor to benefit. He thinks the employee retention and paycheck
+          protection program was free labor, and unemployment benefits are
+          unfair to workers and savers.
+        </span>
         <br />
         <span>
-          He says non-voters reconcile past budgets by default. He is starting
-          Saver Party (saverparty.com or thetaxparty.com) for resource
-          conservation. Our{space}
-          <a href="https://2024nj.com/oil" style={{ color: "black" }}>
-            public lands, resources
-          </a>
-          , and reserves would be depositary for dollars, so we will not
-          default. He wants Hryvnia for U.S. arms dealing. He thinks GDP growth
-          per capita is abnormal. Finally, he postulates a 3% return per dollar
-          checking by current revenuedata.doi.gov. He wants a bank that doesn't
-          lend his deposits.{space}
+          He says non-voters reconcile past budgets by default. He thinks GDP
+          growth per capita is abnormal. Finally, he postulates a 3% return per
+          dollar checking by current revenuedata.doi.gov. He wants a bank that
+          doesn't lend his deposits.
+          {space}
           <i>
             Depositaries function for a one-time fee as a receipt of the
             consortium. He likes revenuedata.doi.gov payable to checking.
@@ -288,3 +292,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
