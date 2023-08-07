@@ -81,15 +81,18 @@ class App extends React.Component {
           </div>
         </div>
         <span>
-          Nicholas Carducci is running for Senate against Menendez's animal
-          rights for horses stops short for lab rats{space}
-          <i>and the human right to try without prescriptions.</i>
-          {space}He also wants very easy immigration policies but doesn't mind a
-          border. He doesn't understand how real GDP growth is non-zero and
-          thinks deflation is better than just disinflation. Most importantly,
-          he doesn't like deficits; any spending is reconciled or less. In order
-          to run for office under the banner-slogan “Bankruptcy is Fraud”,
-          {space}
+          Nicholas Carducci is running for Senate. He leans right on government
+          spending and left on monopolies. He wants very easy immigration
+          policies but doesn't mind a border. He thinks deflation is good. Most
+          importantly, he doesn't like deficits; any spending is reconciled or
+          less. In order to run for office under the banner-slogan “Bankruptcy
+          is Fraud”,
+          {
+            space
+            /**He doesn't understand how real GDP
+          growth is non-zero and thinks deflation is better than just
+          disinflation.  */
+          }
           <i>
             Nick Carducci needs 745 more signatures! He would prefer to
             {space}
@@ -275,6 +278,10 @@ class App extends React.Component {
             border: "0px solid"
           }}
         />
+        His opponent incumbent Bob Menendez has a animal rights policy stance
+        for horses that stops short for lab rats{space}
+        <i>and the human right to try without prescriptions.</i>
+        {space}
       </div>
     );
   }
