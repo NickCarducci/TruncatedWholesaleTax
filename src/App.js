@@ -123,6 +123,11 @@ class App extends React.Component {
             collateralized and limited partnership foundation assets before
             default, and under default he will make the borrower the equity
             holder, and the mortgage lien-holder a mere realtor.
+            <br />
+            <br />
+            Landlords are "rent-seekers" above five 1 bathroom units,
+            office-floors, and storefronts; without this surrender, prices would
+            be much less than 9x to build to buy, he says.
           </i>
         </span>
         <br />
