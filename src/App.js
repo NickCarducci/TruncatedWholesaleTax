@@ -82,11 +82,12 @@ class App extends React.Component {
         </div>
         <span>
           Nicholas Carducci is running for Senate. He leans right on government
-          spending and left on monopolies. He wants very easy immigration
-          policies but doesn't mind a border. He thinks deflation is good. Most
-          importantly, he doesn't like deficits; any spending is reconciled or
-          less. In order to run for office under the banner-slogan “Bankruptcy
-          is Fraud”,
+          spending and left on monopolies. He thinks the Hippocratic Oath can
+          replace medicare. He thinks the income tax should be based on age. He
+          wants very easy immigration policies but doesn't mind a border. He
+          thinks deflation is good. Most importantly, he doesn't like deficits;
+          any spending is reconciled or less. In order to run for office under
+          the banner-slogan “Bankruptcy is Fraud”,
           {
             space
             /**He doesn't understand how real GDP
