@@ -87,7 +87,7 @@ class App extends React.Component {
           wants very easy immigration policies but doesn't mind a border. He
           thinks deflation is good. Most importantly, he doesn't like deficits;
           any spending is reconciled or less. In order to run for office under
-          the banner-slogan “Bankruptcy is Fraud”,
+          the banner-slogan “Limited Deflationary Employment”,
           {
             space
             /**He doesn't understand how real GDP
@@ -98,7 +98,8 @@ class App extends React.Component {
             Nick Carducci needs 745 more signatures! He would prefer to
             {space}
             <b>discharge</b>
-            {space}student debt.
+            {space}student debt to bailouts, as well as liquidate compound
+            interest.
           </i>
         </span>
         <br />
