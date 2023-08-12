@@ -82,12 +82,16 @@ class App extends React.Component {
         </div>
         <span>
           Nicholas Carducci is running for Senate. He leans right on government
-          spending and left on monopolies. He thinks the Hippocratic Oath can
-          replace medicare. He thinks the income tax should be based on age. He
-          wants very easy immigration policies but doesn't mind a border. He
-          thinks deflation is good. Most importantly, he doesn't like deficits;
-          any spending is reconciled or less. In order to run for office under
-          the banner-slogan “Limited Deflationary Employment”,
+          spending and left on monopolies. His opponent incumbent Bob Menendez
+          has an animal rights policy stance for horses that stops short for lab
+          rats{space}
+          <i>and the human right to try without prescriptions.</i>
+          {space}He thinks the Hippocratic Oath can replace medicare. He thinks
+          the income tax should be based on age. He wants very easy immigration
+          policies but doesn't mind a border. He thinks deflation is good. Most
+          importantly, he doesn't like deficits; any spending is reconciled or
+          less. In order to run for office under the banner-slogan “Limited
+          Deflationary Employment”,
           {
             space
             /**He doesn't understand how real GDP
@@ -289,10 +293,6 @@ class App extends React.Component {
             border: "0px solid"
           }}
         />
-        His opponent incumbent Bob Menendez has a animal rights policy stance
-        for horses that stops short for lab rats{space}
-        <i>and the human right to try without prescriptions.</i>
-        {space}
       </div>
     );
   }
