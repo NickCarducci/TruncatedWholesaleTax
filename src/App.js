@@ -125,6 +125,7 @@ class App extends React.Component {
             </i>
           </span>
           <br />
+          <br />
           <span>
             <i>
               Student debt is owned by the treasury, is taken recoursed from
@@ -155,6 +156,7 @@ class App extends React.Component {
             </i>
           </span>
           <br />
+          <br />
           <span>
             He’s earned a political science bachelor degree JHU with an
             economics minor in 2015,{space}
@@ -166,6 +168,7 @@ class App extends React.Component {
             Quick.net.co bookkeeping facility, and Scopes.cc contract manager.
             He invented a voting mechanism that allows for anonymous voting.
           </span>
+          <br />
           <br />
           <span>
             He thinks Trump should have gotten a permit for his own rally-riot,
@@ -184,6 +187,7 @@ class App extends React.Component {
             benefits are unfair to workers and savers.
           </span>
           <br />
+          <br />
           <span>
             He says non-voters reconcile past budgets by default. He thinks GDP
             growth per capita is abnormal. Finally, he postulates a 3% return
@@ -195,6 +199,7 @@ class App extends React.Component {
               consortium. He likes revenuedata.doi.gov payable to checking.
             </i>
           </span>
+          <br />
           <br />
           {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.*/}
@@ -265,6 +270,7 @@ class App extends React.Component {
             and real property deductions, just gift tax exemptions.
           </span>
           <br />
+          <br />
           <span>
             He supports{space}
             <b>regulating monopolies, not prices</b>. He says we will have to
@@ -291,6 +297,7 @@ class App extends React.Component {
               healthcare fines.
             </i>
           </span>
+          <br />
           <br />
           He believes the birth rates a lifetime ago made the Holodomor, the
           Great Leap Forward, Covid, and will make another “pandemic” in 2025 by
