@@ -100,16 +100,13 @@ class App extends React.Component {
         >
           <span>
             Nicholas Carducci is running for Senate. He leans right on
-            government spending and left on monopolies. His opponent incumbent
-            Bob Menendez has an animal rights policy stance for horses that
-            stops short for lab rats{space}
-            <i>and the human right to try without prescriptions.</i>
-            {space}He thinks the Hippocratic Oath can replace medicaid. He
-            thinks the income tax should be based on age. He wants very easy
-            immigration policies but doesn't mind a border. He thinks deflation
-            is good. Most importantly, he doesn't like deficits; any spending is
-            reconciled or less. In order to run for office under the
-            banner-slogan “Limited Deflationary Employment”,
+            government spending and left on monopolies. He thinks the
+            Hippocratic Oath can replace medicaid. He thinks the income tax
+            should be based on age. He wants very easy immigration policies but
+            doesn't mind a border. He thinks deflation is good. Most
+            importantly, he doesn't like deficits; any spending is reconciled or
+            less. In order to run for office under the banner-slogan “Limited
+            Deflationary Employment”,
             {
               space
               /**He doesn't understand how real GDP
@@ -127,37 +124,6 @@ class App extends React.Component {
           <br />
           <br />
           <span>
-            <i>
-              Student debt is owned by the treasury, is taken recoursed from
-              social security, and compound interest - but{space}
-              <b>
-                without bailouts and for payday loans you only pay when you
-                start working in the industry your degree is in
-              </b>
-              . We will not default because current dollars would return 3%
-              given current drilling in WY, NM, and UT public lands. He wants
-              Hryvnia for U.S. arms dealing. He is starting Saver Party
-              (saverparty.com or thetaxparty.com) for resource conservation. He
-              thinks student debt should be assessed to recourse by industry
-              merchant category code like business for sales, and communications
-              for marketing.
-              <br />
-              <br />
-              Compound interest is an unnecessary recourse against the freedom
-              of other's purchasing conveyance. He advises to liquidate
-              collateralized and limited partnership foundation assets before
-              default, and under default he will make the borrower the equity
-              holder, and the mortgage lien-holder a mere realtor.
-              <br />
-              <br />
-              Landlords are "rent-seekers" above five 1 bathroom units,
-              office-floors, and storefronts; without this surrender, prices
-              would be much less than 9x to build to buy, he says.
-            </i>
-          </span>
-          <br />
-          <br />
-          <span>
             He’s earned a political science bachelor degree JHU with an
             economics minor in 2015,{space}
             <i>
@@ -167,53 +133,21 @@ class App extends React.Component {
             . He is a product manager for thumbprint.us Social Calendar,
             Quick.net.co bookkeeping facility, and Scopes.cc contract manager.
             He invented a voting mechanism that allows for anonymous voting.
-          </span>
-          <br />
-          <br />
-          <span>
+            <br />
+            <br />
+            His opponent incumbent Bob Menendez has an animal rights policy
+            stance for horses that stops short for lab rats{space}
+            <i>and the human right to try without prescriptions.</i>
+            {space}
             He thinks Trump should have gotten a permit for his own rally-riot,
             and is guilty of knowing{space}
             <a href="https://thumbprint.us" style={{ color: "black" }}>
               current technology is unprovable
             </a>
-            . Although he is running for a federal position, he thinks state
-            government is free rider mutable, and should be taxed-fully, if
-            anything, other than suiting-plaintiffs. He believes in tort reform,
-            whereas the fault is of a right to try. He also believes in a
-            single-party divorce. Nick also wants to force politicians to
-            abstain from voting when they have above $100k share ownership in a
-            government contractor to benefit. He thinks the employee retention
-            and paycheck protection program was free labor, and unemployment
-            benefits are unfair to workers and savers.
+            , unless he says erroneously, "elections are auditable" and requests
+            a recount.
           </span>
           <br />
-          <br />
-          <span>
-            He says non-voters reconcile past budgets by default. He thinks GDP
-            growth per capita is abnormal. Finally, he postulates a 3% return
-            per dollar checking by current revenuedata.doi.gov. He wants a bank
-            that doesn't lend his deposits.
-            {space}
-            <i>
-              Depositaries function for a one-time fee as a receipt of the
-              consortium. He likes revenuedata.doi.gov payable to checking.
-            </i>
-          </span>
-          <br />
-          <br />
-          {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
-        public parks of UT, WY, NM lands, resources, and reserves.*/}
-          <span>
-            He aspires to deflate the economy and retire low unemployment
-            forever with technology{space}
-            <i>
-              and fiscal policy to cut out compound interest in order to make
-              balancing the budget at most an annual deficit
-            </i>
-            . Earlier than a certain point (NAIRU) on the Phillips curve of
-            unemployment (x) to prices (y), employment is no longer
-            deflationary.
-          </span>
           <br />
           He says we will likely win because 65% supported Occupy Wall Street;
           that's 95% among non-voters.
@@ -257,6 +191,51 @@ class App extends React.Component {
             </a>
           </div>
           <span>
+            <i>
+              Student debt is owned by the treasury, is taken recoursed from
+              social security, and compound interest - but{space}
+              <b>
+                without bailouts and for payday loans you only pay when you
+                start working in the industry your degree is in
+              </b>
+              . We will not default because current dollars would return 3%
+              given current drilling in WY, NM, and UT public lands. He wants
+              Hryvnia for U.S. arms dealing. He is starting Saver Party
+              (saverparty.com or thetaxparty.com) for resource conservation. He
+              thinks student debt should be assessed to recourse by industry
+              merchant category code like business for sales, and communications
+              for marketing.
+              <br />
+              <br />
+              Compound interest is an unnecessary recourse against the freedom
+              of other's purchasing conveyance. He advises to liquidate
+              collateralized and limited partnership foundation assets before
+              default, and under default he will make the borrower the equity
+              holder, and the mortgage lien-holder a mere realtor.
+              <br />
+              <br />
+              Landlords are "rent-seekers" above five 1 bathroom units,
+              office-floors, and storefronts; without this surrender, prices
+              would be much less than 9x to build to buy, he says.
+            </i>
+          </span>
+          <br />
+          <br />
+          {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
+        public parks of UT, WY, NM lands, resources, and reserves.*/}
+          <span>
+            He aspires to deflate the economy and retire low unemployment
+            forever with technology{space}
+            <i>
+              and fiscal policy to cut out compound interest in order to make
+              balancing the budget at most an annual deficit
+            </i>
+            . Earlier than a certain point (NAIRU) on the Phillips curve of
+            unemployment (x) to prices (y), employment is no longer
+            deflationary.
+          </span>
+          <br />
+          <span>
             He wants to pay back SSA over a lifetime, even by age with
             implementation difficulties; then, he would move us to truncated
             progressive tax $60-600,{space}
@@ -268,6 +247,32 @@ class App extends React.Component {
             </a>
             . He says a national sales tax means no corporate, regular business,
             and real property deductions, just gift tax exemptions.
+          </span>
+          <br />
+          <br />
+          <span>
+            Although he is running for a federal position, he thinks state
+            government is free rider mutable, and should be taxed-fully, if
+            anything, other than suiting-plaintiffs. He believes in tort reform,
+            whereas the fault is of a right to try. He also believes in a
+            single-party divorce. Nick also wants to force politicians to
+            abstain from voting when they have above $100k share ownership in a
+            government contractor to benefit. He thinks the employee retention
+            and paycheck protection program was free labor, and unemployment
+            benefits are unfair to workers and savers.
+          </span>
+          <br />
+          <br />
+          <span>
+            He says non-voters reconcile past budgets by default. He thinks GDP
+            growth per capita is abnormal. Finally, he postulates a 3% return
+            per dollar checking by current revenuedata.doi.gov. He wants a bank
+            that doesn't lend his deposits.
+            {space}
+            <i>
+              Depositaries function for a one-time fee as a receipt of the
+              consortium. He likes revenuedata.doi.gov payable to checking.
+            </i>
           </span>
           <br />
           <br />
