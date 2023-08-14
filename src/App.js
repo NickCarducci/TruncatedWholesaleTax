@@ -222,7 +222,9 @@ class App extends React.Component {
           <br />
           <br />
           {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
-        public parks of UT, WY, NM lands, resources, and reserves.*/}
+        public parks of UT, WY, NM lands, resources, and reserves.
+        even by age with
+            implementation difficulties*/}
           <span>
             He aspires to deflate the economy and retire low unemployment
             forever with technology{space}
@@ -235,10 +237,11 @@ class App extends React.Component {
             deflationary.
           </span>
           <br />
+          <br />
           <span>
-            He wants to pay back SSA over a lifetime, even by age with
-            implementation difficulties; then, he would move us to truncated
-            progressive tax $60-600,{space}
+            He wants to pay back SSA over a lifetime, by age, with a wealth tax
+            for retirees; then, he would move us to truncated progressive tax
+            $60-600,{space}
             <a
               href="https://fred.stlouisfed.org/graph/?g=17fkn"
               style={{ color: "black" }}
@@ -325,9 +328,12 @@ class App extends React.Component {
               border: "0px solid"
             }}
           />
+          <br />
+          <br />
         </div>
       </div>
     );
   }
 }
 export default App;
+
