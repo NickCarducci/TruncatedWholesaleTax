@@ -114,7 +114,7 @@ class App extends React.Component {
           disinflation.  */
             }
             <i>
-              Nick Carducci needs 744 more signatures! He would prefer to
+              Nick Carducci needs 743 more signatures! He would prefer to
               {space}
               <b>discharge</b>
               {space}student debt to bailouts, as well as liquidate compound
