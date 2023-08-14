@@ -104,7 +104,7 @@ class App extends React.Component {
             Bob Menendez has an animal rights policy stance for horses that
             stops short for lab rats{space}
             <i>and the human right to try without prescriptions.</i>
-            {space}He thinks the Hippocratic Oath can replace medicare. He
+            {space}He thinks the Hippocratic Oath can replace medicaid. He
             thinks the income tax should be based on age. He wants very easy
             immigration policies but doesn't mind a border. He thinks deflation
             is good. Most importantly, he doesn't like deficits; any spending is
@@ -326,3 +326,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
