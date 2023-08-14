@@ -105,8 +105,8 @@ class App extends React.Component {
             should be based on age. He wants very easy immigration policies but
             doesn't mind a border. He thinks deflation is good. Most
             importantly, he doesn't like deficits; any spending is reconciled or
-            less. In order to run for office under the banner-slogan “Limited
-            Deflationary Employment”,
+            less. In order to run for office under the banner-slogan “Risk-Free
+            Banking”,
             {
               space
               /**He doesn't understand how real GDP
@@ -201,7 +201,7 @@ class App extends React.Component {
               . We will not default because current dollars would return 3%
               given current drilling in WY, NM, and UT public lands. He wants
               Hryvnia for U.S. arms dealing. He is starting Saver Party
-              (saverparty.com or thetaxparty.com) for resource conservation. He
+              (saverparty.com or taxparty.org) for resource conservation. He
               thinks student debt should be assessed to recourse by industry
               merchant category code like business for sales, and communications
               for marketing.
@@ -331,4 +331,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
