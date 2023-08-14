@@ -191,6 +191,19 @@ class App extends React.Component {
             </a>
           </div>
           <span>
+            He says non-voters reconcile past budgets by default. He thinks GDP
+            growth per capita is abnormal. Finally, he postulates a 3% return
+            per dollar checking by current revenuedata.doi.gov. He wants a bank
+            that doesn't lend his deposits.
+            {space}
+            <i>
+              Depositaries function for a one-time fee as a receipt of the
+              consortium. He likes revenuedata.doi.gov payable to checking.
+            </i>
+          </span>
+          <br />
+          <br />
+          <span>
             <i>
               Student debt is owned by the treasury, is taken recoursed from
               social security, and compound interest - but{space}
@@ -267,19 +280,6 @@ class App extends React.Component {
           <br />
           <br />
           <span>
-            He says non-voters reconcile past budgets by default. He thinks GDP
-            growth per capita is abnormal. Finally, he postulates a 3% return
-            per dollar checking by current revenuedata.doi.gov. He wants a bank
-            that doesn't lend his deposits.
-            {space}
-            <i>
-              Depositaries function for a one-time fee as a receipt of the
-              consortium. He likes revenuedata.doi.gov payable to checking.
-            </i>
-          </span>
-          <br />
-          <br />
-          <span>
             He supports{space}
             <b>regulating monopolies, not prices</b>. He says we will have to
             pay back Social Security to in a lifetime because{space}
@@ -336,4 +336,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
