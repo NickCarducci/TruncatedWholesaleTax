@@ -133,7 +133,7 @@ class App extends React.Component {
             </i>
             . He is a product manager for thumbprint.us Social Calendar,
             Quick.net.co bookkeeping facility, and Scopes.cc contract manager.
-            He invented a voting mechanism that allows for anonymous voting.
+            He invented a voting system that allows for anonymous voting.
             <br />
             <br />
             His opponent incumbent Bob Menendez has an animal rights policy
