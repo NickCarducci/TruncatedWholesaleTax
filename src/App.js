@@ -103,10 +103,12 @@ class App extends React.Component {
             government spending and left on monopolies. He thinks the
             Hippocratic Oath (sutures and natal care) can replace most of
             medicaid (less transplants). He thinks the income and inheritance
-            tax can be replaced by a wealth tax based on age. He wants very easy
-            immigration policies but doesn't mind a border. He thinks deflation
-            is good. Most importantly, he doesn't like deficits; any spending is
-            reconciled or less. In order to run for office under the
+            tax can be replaced by a wealth tax based on age, and the $21t
+            social security liabilities can be retired in a lifetime. He wants
+            very easy immigration policies but doesn't mind a border. He thinks
+            deflation is good, and insurance and bills surrender the purchases
+            of third parties. Most importantly, he doesn't like deficits; any
+            spending is reconciled or less. In order to run for office under the
             banner-slogan “Risk-Free Banking”,
             {
               space
