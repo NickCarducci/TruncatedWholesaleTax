@@ -101,12 +101,13 @@ class App extends React.Component {
           <span>
             Nicholas Carducci is running for Senate. He leans right on
             government spending and left on monopolies. He thinks the
-            Hippocratic Oath can replace medicaid. He thinks the income tax
-            should be based on age. He wants very easy immigration policies but
-            doesn't mind a border. He thinks deflation is good. Most
-            importantly, he doesn't like deficits; any spending is reconciled or
-            less. In order to run for office under the banner-slogan “Risk-Free
-            Banking”,
+            Hippocratic Oath (sutures and natal care) can replace most of
+            medicaid (less transplants). He thinks the income and inheritance
+            tax can be replaced by a wealth tax based on age. He wants very easy
+            immigration policies but doesn't mind a border. He thinks deflation
+            is good. Most importantly, he doesn't like deficits; any spending is
+            reconciled or less. In order to run for office under the
+            banner-slogan “Risk-Free Banking”,
             {
               space
               /**He doesn't understand how real GDP
@@ -336,3 +337,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
