@@ -110,9 +110,8 @@ class App extends React.Component {
             assessment, not colateral repossession and compound interest. He
             wants very easy immigration policies but doesn't mind a border. He
             thinks deflation is good, and insurance and bills surrender the
-            purchases of third parties. Most importantly, he doesn't like
-            deficits; any spending is reconciled or less. In order to run for
-            office under the banner-slogan “Risk-Free Banking”,
+            purchases of third parties. In order to run for office under the
+            banner-slogan “Risk-Free Banking”,
             {
               space
               /**He doesn't understand how real GDP
@@ -342,4 +341,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
