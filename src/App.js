@@ -100,18 +100,18 @@ class App extends React.Component {
         >
           <span>
             Nicholas Carducci is running for Senate. He leans right on
-            government spending and left on monopolies. He thinks the
-            Hippocratic Oath, namely for sutures and natal care, can replace
-            most of medicaid, less transplants. He would ensure the central bank
-            pays for all deficits, and tax rates rise to cover the year before.
-            He thinks the income and inheritance tax can be replaced by a wealth
-            tax based on age, and the $21t social security liabilities can be
-            retired in a lifetime. He thinks capital formation requires industry
-            assessment, not colateral repossession and compound interest. He
-            wants very easy immigration policies but doesn't mind a border. He
-            thinks deflation is good, and insurance and bills surrender the
-            purchases of third parties. In order to run for office under the
-            banner-slogan “Risk-Free Banking”,
+            government spending and left on monopolies. He thinks capital
+            formation requires industry assessment, not colateral repossession
+            and compound interest. He wants very easy immigration policies but
+            doesn't mind a border. He thinks the Hippocratic Oath, namely for
+            sutures and natal care, can replace most of medicaid, less
+            transplants. He would ensure the central bank pays for all deficits,
+            and tax rates rise to cover the year before. He thinks the income
+            and inheritance tax can be replaced by a wealth tax based on age,
+            and the $21t social security liabilities can be retired in a
+            lifetime. He thinks deflation is good, and insurance and bills
+            surrender the purchases of third parties. In order to run for office
+            under the banner-slogan “Risk-Free Banking”,
             {
               space
               /**He doesn't understand how real GDP
@@ -341,3 +341,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
