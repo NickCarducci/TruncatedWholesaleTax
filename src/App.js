@@ -109,9 +109,9 @@ class App extends React.Component {
             and tax rates rise to cover the year before. He thinks the income
             and inheritance tax can be replaced by a wealth tax based on age,
             and the $21t social security liabilities can be retired in a
-            lifetime. He thinks deflation is good, and insurance and bills
-            surrender the purchases of third parties. In order to run for office
-            under the banner-slogan “Risk-Free Banking”,
+            lifetime ($21t/57m=$368,421). He thinks deflation is good, and
+            insurance and bills surrender the purchases of third parties. In
+            order to run for office under the banner-slogan “Risk-Free Banking”,
             {
               space
               /**He doesn't understand how real GDP
