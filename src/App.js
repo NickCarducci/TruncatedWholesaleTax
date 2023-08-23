@@ -99,19 +99,24 @@ class App extends React.Component {
           }}
         >
           <span>
-            Nicholas Carducci is running for Senate. He leans right on
-            government spending and left on monopolies. He thinks capital
-            formation requires industry assessment, not colateral repossession
-            and compound interest. He wants very easy immigration policies but
-            doesn't mind a border. He thinks the Hippocratic Oath, namely for
-            sutures and natal care, can replace most of medicaid, less
-            transplants. He would ensure the central bank pays for all deficits,
-            and tax rates rise to cover the year before. He thinks the income
-            and inheritance tax can be replaced by a wealth tax based on age,
-            and the $21t social security liabilities can be retired in a
-            lifetime ($21t/57m=$368,421). He thinks deflation is good, and
-            insurance and bills surrender the purchases of third parties. In
-            order to run for office under the banner-slogan “Risk-Free Banking”,
+            Nicholas Carducci is running for Senate. He believes compound
+            interest and collateral repossession instead of industry assessment,
+            as in payday loans, surrenders the purchases of others. He generally
+            leans right on government spending and left on monopolies, wanting
+            very easy immigration policies, yet doesn't mind a border; the
+            Hippocratic Oath, namely for sutures and natal care, can replace
+            most of medicaid, less transplants. He wants the central bank to pay
+            for any deficit, while tax rates rise to remit the year before.
+            {
+              space +
+                space /*He thinks the income and inheritance tax can be replaced by a wealth
+            tax based on age, and the $21t social security liabilities can be
+            retired in a lifetime ($21t/57m=$368,421). He thinks deflation is
+            good, and insurance and bills surrender the purchases of third
+            parties. */
+            }
+            In order to run for office under the banner-slogan “Risk-Free
+            Banking”,
             {
               space
               /**He doesn't understand how real GDP
@@ -119,11 +124,12 @@ class App extends React.Component {
           disinflation.  */
             }
             <i>
-              Nick Carducci needs 743 more signatures! He would prefer to
+              Nick Carducci needs 742 more signatures!{" "}
+              {/*He would prefer to
               {space}
               <b>discharge</b>
               {space}student debt to bailouts, as well as liquidate compound
-              interest.
+              interest.*/}
             </i>
           </span>
           <br />
@@ -135,22 +141,23 @@ class App extends React.Component {
               as well as learned public finance and international law at
               Monmouth University
             </i>
-            . He is a product manager for thumbprint.us Social Calendar,
+            . He is the product manager of Thumbprint.us social calendar,
             Quick.net.co bookkeeping facility, and Scopes.cc contract manager.
-            He invented a voting system that allows for anonymous voting.
+            He also invented a voting system that allows for anonymous voting.
             <br />
             <br />
-            His opponent incumbent Bob Menendez has an animal rights policy
-            stance for horses that stops short for lab rats{space}
-            <i>and the human right to try without prescriptions.</i>
+            His opponent incumbent Bob Menendez has been tried twice for bribery
+            and has an animal rights policy stance for horses that stops short
+            for lab rats{space}
+            <i>with the human right to try without prescriptions.</i>
             {space}
-            He thinks Trump should have gotten a permit for his own rally-riot,
+            He thinks Trump should have gotten a permit for his own rally-riot
             and is guilty of knowing{space}
             <a href="https://thumbprint.us" style={{ color: "black" }}>
-              current technology is unprovable
+              current election technology is unprovable
             </a>
-            , unless he says erroneously, "elections are auditable" and requests
-            a recount.
+            {space}unless he says erroneously, "elections are auditable" and
+            requests a recount.
           </span>
           <br />
           <br />
