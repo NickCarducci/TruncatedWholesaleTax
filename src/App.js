@@ -159,7 +159,10 @@ class App extends React.Component {
               current election technology is unprovable
             </a>
             {space}unless he says erroneously, "elections are auditable" and
-            requests a recount.
+            requests a recount. He thinks the employee retention and paycheck
+            protection program was free labor, and unemployment benefits are
+            unfair to workers and savers. He says a "national sales tax" means
+            no business and real property deductions, just gift tax exemptions.
           </span>
           <br />
           <br />
@@ -264,9 +267,7 @@ class App extends React.Component {
             unemployment (x) to prices (y), employment is no longer
             deflationary.
           </span>
-          <br />
-          <br />
-          <span>
+          <span style={{ display: "none" }}>
             He wants to pay back SSA over a lifetime, by age, with a wealth tax
             for retirees; then, he would move us to truncated progressive tax
             $60-600,{space}
@@ -276,21 +277,17 @@ class App extends React.Component {
             >
               after deflation to 1950's level
             </a>
-            . He says a national sales tax means no corporate, regular business,
-            and real property deductions, just gift tax exemptions.
+            .
           </span>
           <br />
           <br />
           <span>
             Although he is running for a federal position, he thinks state
-            government is free rider mutable, and should be taxed-fully, if
-            anything, other than suiting-plaintiffs. He believes in tort reform,
-            whereas the fault is of a right to try. He also believes in a
-            single-party divorce. Nick also wants to force politicians to
+            government is free rider mutable other than suiting-plaintiffs. He
+            believes in tort reform, whereas the fault is of a right to try and
+            a single-party divorce. Nick also wants to force politicians to
             abstain from voting when they have above $100k share ownership in a
-            government contractor to benefit. He thinks the employee retention
-            and paycheck protection program was free labor, and unemployment
-            benefits are unfair to workers and savers.
+            government contractor to benefit.
           </span>
           <br />
           <br />
@@ -351,3 +348,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
