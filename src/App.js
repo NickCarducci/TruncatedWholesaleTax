@@ -99,16 +99,16 @@ class App extends React.Component {
           }}
         >
           <span>
-            Nicholas Carducci is running for Senate. He believes compound
-            interest and collateral repossession instead of industry assessment,
-            as in payday loans, surrenders the purchases of others. He generally
-            leans right on government spending and left on monopolies, wanting
-            very easy immigration policies, yet doesn't mind a border. He also
-            beleives the Hippocratic Oath, namely for sutures and natal care,
-            can replace most of medicaid, less transplants and social security
-            liabilities can be paid by wealthy retirees instead of an income
-            tax. He wants the central bank to pay for any deficit, while tax
-            rates rise to remit the year before.
+            Nicholas Matthew Carducci is running for Senate. He believes
+            compound interest and collateral repossession instead of industry
+            assessment, as in payday loans, surrenders the purchases of others.
+            He generally leans right on government spending and left on
+            monopolies, wanting very easy immigration policies, yet doesn't mind
+            a border. He also believes the Hippocratic Oath, namely for sutures
+            and natal care, can replace most of medicaid, less transplants and
+            social security liabilities can be paid by wealthy retirees instead
+            of an income tax. He wants the central bank to pay for any deficit,
+            while tax rates rise to remit the year before.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -205,14 +205,15 @@ class App extends React.Component {
             </a>
           </div>
           <span>
-            He says non-voters reconcile past budgets by default. He thinks GDP
-            growth per capita is abnormal. Finally, he postulates a 3% return
-            per dollar checking by current revenuedata.doi.gov. He wants a bank
-            that doesn't lend his deposits.
+            He says non-voters reconcile past budgets, by default, and
+            shrinkflation erroneously causes economic growth, so GDP growth per
+            capita is abnormal, nor natural and neutral. Finally, he postulates
+            a 3% return per dollar-checking by current revenuedata.doi.gov. He
+            wants a bank that doesn't lend his deposits, where
             {space}
             <i>
-              Depositaries function for a one-time fee as a receipt of the
-              consortium. He likes revenuedata.doi.gov payable to checking.
+              depositaries instead function for a one-time fee as a receipt of
+              the consortium.
             </i>
           </span>
           <br />
