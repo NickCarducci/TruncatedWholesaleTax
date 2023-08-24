@@ -98,15 +98,19 @@ class App extends React.Component {
             margin: "5px"
           }}
         >
+          <h3>
+            Taxes make China and Russia interested in Taiwan and Ukraine;
+            Medicaid for Transplants, Retirees pay SSA.
+          </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate. He believes
             compound interest and collateral repossession instead of industry
             assessment, as in payday loans, surrenders the purchases of others;
             and contracts generally are bonk in liberty but for shares and
             voting: meanwhile, to never surrender that which is not yours in
-            contract law means shares and voting, not compound interest,
-            collateral repossession, nor implausible use leases, while in
-            communism, invoices/bills are banned. He generally leans right on
+            contract law means shares and voting are grounds, not compound
+            interest, collateral repossession, nor implausible use leases, while
+            in communism, invoices/bills are banned. He generally leans right on
             government spending and left on monopolies, wanting very easy
             immigration policies, yet doesn't mind a border. He also believes
             the Hippocratic Oath, namely for sutures and natal care, can replace
