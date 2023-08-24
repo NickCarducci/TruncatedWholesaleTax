@@ -293,11 +293,12 @@ class App extends React.Component {
           <br />
           <span>
             Although he is running for a federal position, he thinks state
-            government is free rider mutable other than suiting-plaintiffs. He
-            believes in tort reform, whereas the fault is of a right to try and
-            a single-party divorce. Nick also wants to force politicians to
-            abstain from voting when they have above $100k share ownership in a
-            government contractor to benefit.
+            government is free rider mutable other than suiting-plaintiffs;
+            sales tax can be supported by a geohash-descriptors for accounting
+            software. He believes in tort reform, whereas the fault is of a
+            right to try and a single-party divorce. Nick also wants to force
+            politicians to abstain from voting when they have above $100k share
+            ownership in a government contractor to benefit.
           </span>
           <br />
           <br />
