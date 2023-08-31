@@ -107,8 +107,8 @@ class App extends React.Component {
             Nicholas Matthew Carducci is running for Senate with a new tax
             policy. He believes compound interest and collateral repossession
             instead of industry assessment, as in payday loans, surrenders the
-            purchases of others; and contracts generally are bonk in liberty but
-            for shares and voting:{" "}
+            purchases of others, a violation in contract law; and contracts
+            generally are bonk in liberty but for shares and voting:{" "}
             {/*meanwhile, to never surrender that which is
             not yours in contract law means shares and voting are grounds, not
             compound interest, collateral repossession, nor implausible use
@@ -139,12 +139,11 @@ class App extends React.Component {
           disinflation.  */
             }
             <i>
-              Nick Carducci needs 742 more signatures!{" "}
-              {/*He would prefer to
+              Nick Carducci needs 742 more signatures! He would prefer to
               {space}
               <b>discharge</b>
               {space}student debt to bailouts, as well as liquidate compound
-              interest.*/}
+              interest.
             </i>
           </span>
           <br />
