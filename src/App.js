@@ -156,8 +156,9 @@ class App extends React.Component {
               Monmouth University
             </i>
             . He is the product manager of Thumbprint.us social calendar,
-            Quick.net.co bookkeeping facility, and Scopes.cc contract manager.
-            He also invented a voting system that allows for anonymous voting.
+            Quick.net.co bookkeeping facility, Vaults.biz industry assessment,
+            and Scopes.cc contract manager. He also invented a voting system
+            that allows for anonymous voting.
             <br />
             <br />
             His opponent incumbent Bob Menendez has been tried twice for bribery
