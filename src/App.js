@@ -21,6 +21,17 @@ class App extends React.Component {
       ctx.fill();
     }
   };
+  /*
+  He believes compound interest and collateral repossession
+            instead of industry assessment, as in payday loans, surrenders the
+            purchases of others, a violation in contract law; and contracts
+            generally are bonk in liberty but for shares and voting:{" "}
+            {/*meanwhile, to never surrender that which is
+            not yours in contract law means shares and voting are grounds, not
+            compound interest, collateral repossession, nor implausible use
+            leases, while in communism, * /}
+            invoices/bills are banned. 
+  */
   render() {
     const space = " ";
     return (
@@ -105,23 +116,14 @@ class App extends React.Component {
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
-            policy. He believes compound interest and collateral repossession
-            instead of industry assessment, as in payday loans, surrenders the
-            purchases of others, a violation in contract law; and contracts
-            generally are bonk in liberty but for shares and voting:{" "}
-            {/*meanwhile, to never surrender that which is
-            not yours in contract law means shares and voting are grounds, not
-            compound interest, collateral repossession, nor implausible use
-            leases, while in communism, */}
-            invoices/bills are banned. He generally leans right on government
-            spending and left on monopolies, wanting very easy immigration
-            policies, yet doesn't mind a border. He also believes the
-            Hippocratic Oath, namely for sutures and natal care, can replace
-            most of medicaid, less transplants, and social security liabilities
-            can be paid by wealthy retirees instead of an income tax. The
-            Federal Reserve should be the only lender; he wants the central bank
-            to pay for any deficit, while tax rates rise to remit the year
-            before.
+            policy. He generally leans right on government spending and left on
+            monopolies, wanting very easy immigration policies, yet doesn't mind
+            a border. He also believes the Hippocratic Oath, namely for sutures
+            and natal care, can replace most of medicaid, less transplants, and
+            social security liabilities can be paid by wealthy retirees instead
+            of an income tax. The Federal Reserve should be the only lender; he
+            wants the central bank to pay for any deficit, while tax rates rise
+            to remit the year before.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
