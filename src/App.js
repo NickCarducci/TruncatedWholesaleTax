@@ -145,7 +145,8 @@ class App extends React.Component {
               {space}
               <b>discharge</b>
               {space}student debt to bailouts, as well as liquidate compound
-              interest.
+              interest, that is: end unemployment benefits, rentals, debt, and
+              insurance, or finance, overall.
             </i>
           </span>
           <br />
@@ -376,3 +377,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
