@@ -237,33 +237,34 @@ class App extends React.Component {
           <br />
           <br />
           <span>
+            Student debt is owned by the treasury, garnishes social security,
+            and compounds interest for late fees - but{space}
+            <b>
+              without bailouts and for payday loans you only pay when you start
+              working in the industry your degree is in
+            </b>
+            .{space}
             <i>
-              Student debt is owned by the treasury, is taken recoursed from
-              social security, and compound interest - but{space}
-              <b>
-                without bailouts and for payday loans you only pay when you
-                start working in the industry your degree is in
-              </b>
-              . We will not default because current dollars would return 3%
-              given current drilling in WY, NM, and UT public lands. He wants
-              Hryvnia for U.S. arms dealing. He is starting Saver Party
-              (saverparty.com or taxparty.org) for resource conservation. He
-              thinks student debt should be assessed to recourse by industry
-              merchant category code like business for sales, and communications
-              for marketing.
-              <br />
-              <br />
-              Compound interest is an unnecessary recourse against the freedom
-              of other's purchasing conveyance. He advises to liquidate
-              collateralized and limited partnership foundation assets before
-              default, and under default he will make the borrower the equity
-              holder, and the mortgage lien-holder a mere realtor.
-              <br />
-              <br />
-              Landlords are "rent-seekers" above five 1 bathroom units,
-              office-floors, and storefronts; without this surrender, prices
-              would be much less than 9x to build to buy, he says.
+              We will not default because current dollars would return 3% given
+              current drilling in WY, NM, and UT public lands.
             </i>
+            {space}He wants Hryvnia for U.S. arms dealing. He is starting Saver
+            Party (saverparty.com or taxparty.org) for resource conservation. He
+            thinks student debt should be assessed to recourse by industry
+            merchant category code like business for sales, and communications
+            for marketing.
+            <br />
+            <br />
+            Compound interest is an unnecessary recourse against the freedom of
+            other's purchasing conveyance. He advises to liquidate
+            collateralized and limited partnership foundation assets before
+            default, and under default he will make the borrower the equity
+            holder, and the mortgage lien-holder a mere realtor.
+            <br />
+            <br />
+            Landlords are "rent-seekers" above five 1 bathroom units,
+            office-floors, and storefronts; without this surrender, prices would
+            be much less than 9x to build to buy, he says.
           </span>
           <br />
           <br />
@@ -317,7 +318,14 @@ class App extends React.Component {
             >
               that’s how it’s taken in
             </a>
-            .{space}
+            .
+            <h3 style={{ color: "grey" }}>
+              Insurance is elastic towards price for expiring and overbooking
+              wholesale collective bargaining like money is. Now short-term
+              rentals are limited, admitting some quantity instead of price
+              monopoly of build to sell - implausible use leases landlord
+              liquidity Microfinance blackrock.
+            </h3>
             <i>
               He wants to force landlords to sell and doctors to oath private
               practice sutures, obstetrics, and transplants for free.
