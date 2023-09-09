@@ -264,7 +264,11 @@ class App extends React.Component {
             <br />
             Landlords are "rent-seekers" above five 1 bathroom units,
             office-floors, and storefronts; without this surrender, prices would
-            be much less than 9x to build to buy, he says.
+            be much less than 9x to build to buy, he says{space}
+            <a href="https://fred.stlouisfed.org/graph/?g=18ELw">
+              (price/((average hourly earnings*hours worked)/employees))
+            </a>
+            .
           </span>
           <br />
           <br />
