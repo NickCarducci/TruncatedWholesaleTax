@@ -116,17 +116,39 @@ class App extends React.Component {
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
-            policy to retire social security where social security liabilities
-            can be paid by wealthy retirees instead of an income tax, refine
-            Medicaid where the Hippocratic Oath, namely for sutures and natal
-            care, can replace most of medicaid, less transplants, and he wants
-            to end the fed where the Federal Reserve should be the only lender;
-            he wants the central bank to pay for any deficit, while tax rates
-            rise to remit the year before. He generally leans right on
-            government spending and left on monopolies, wanting very easy
-            immigration policies, yet doesn't mind a border, hating unemployment
-            benefits as corporate welfare, and calling for depository instead of
-            depositary banking, so commercial banks do not lend deposits.
+            policy to{space}
+            <span
+              style={{
+                backgroundColor: "rgba(150,250,200,.7)"
+              }}
+            >
+              retire social security where social security liabilities can be
+              paid by wealthy retirees instead of an income tax
+            </span>
+            ,{space}
+            <span
+              style={{
+                backgroundColor: "rgba(250,170,200,.7)"
+              }}
+            >
+              refine Medicaid where the Hippocratic Oath, namely for sutures and
+              natal care, can replace most of medicaid, less transplants
+            </span>
+            , and he wants to{space}
+            <span
+              style={{
+                backgroundColor: "rgba(210,180,250,.7)"
+              }}
+            >
+              end the fed where the Federal Reserve should be the only lender;
+              he wants the central bank to pay for any deficit, while tax rates
+              rise to remit the year before.
+            </span>
+            {space}He generally leans right on government spending and left on
+            monopolies, wanting very easy immigration policies, yet doesn't mind
+            a border, hating unemployment benefits as corporate welfare, and
+            calling for depository instead of depositary banking, so commercial
+            banks do not lend deposits.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -135,22 +157,28 @@ class App extends React.Component {
             good, and insurance and bills surrender the purchases of third
             parties. */
             }
-            In order to run for office under the banner-slogan “Risk-Free
-            Banking”,
-            {
-              space
-              /**He doesn't understand how real GDP
+            <span
+              style={{
+                backgroundColor: "rgba(150,200,250,.7)"
+              }}
+            >
+              In order to run for office under the banner-slogan “Risk-Free
+              Banking”,
+              {
+                space
+                /**He doesn't understand how real GDP
           growth is non-zero and thinks deflation is better than just
           disinflation.  */
-            }
-            <i>
-              Nick Carducci needs 742 more signatures! He would prefer to
-              {space}
-              <b>discharge</b>
-              {space}student debt to bailouts, as well as liquidate compound
-              interest, that is: end unemployment benefits, rentals, debt, and
-              insurance, or finance, overall.
-            </i>
+              }
+              <i>
+                Nick Carducci needs 742 more signatures! He would prefer to
+                {space}
+                <b>discharge</b>
+                {space}student debt to bailouts, as well as liquidate compound
+                interest, that is: end unemployment benefits, rentals, debt, and
+                insurance, or finance, overall.
+              </i>
+            </span>
           </span>
           <br />
           <br />
@@ -384,4 +412,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
