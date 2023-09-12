@@ -109,6 +109,7 @@ class App extends React.Component {
             margin: "5px"
           }}
         >
+          <h2>Retire, refine, remit!</h2>
           <h3 style={{ color: "grey" }}>
             New Candidate: Free Rider Mutable Taxes make China and Russia
             interested in Taiwan and Ukraine; Medicaid for Transplants, Retirees
