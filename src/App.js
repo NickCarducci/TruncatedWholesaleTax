@@ -124,7 +124,9 @@ class App extends React.Component {
             he wants the central bank to pay for any deficit, while tax rates
             rise to remit the year before. He generally leans right on
             government spending and left on monopolies, wanting very easy
-            immigration policies, yet doesn't mind a border.
+            immigration policies, yet doesn't mind a border, hating unemployment
+            benefits as corporate welfare, and calling for depository instead of
+            depositary banking, so commercial banks do not lend deposits.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -382,5 +384,4 @@ class App extends React.Component {
   }
 }
 export default App;
-
 
