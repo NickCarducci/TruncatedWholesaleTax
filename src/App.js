@@ -126,6 +126,15 @@ class App extends React.Component {
               retire social security where social security liabilities can be
               paid by wealthy retirees instead of an income tax
             </span>
+            {space}
+            <span
+              style={{
+                backgroundColor: "rgba(240,230,180,.7)"
+              }}
+            >
+              (even a guaranteed minimum income, means test, and without
+              medicaid inpatient standardized guarantee schemes)
+            </span>
             ,{space}
             <span
               style={{
@@ -413,3 +422,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
