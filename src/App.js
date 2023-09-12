@@ -116,14 +116,15 @@ class App extends React.Component {
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
-            policy. He generally leans right on government spending and left on
-            monopolies, wanting very easy immigration policies, yet doesn't mind
-            a border. He also believes the Hippocratic Oath, namely for sutures
-            and natal care, can replace most of medicaid, less transplants, and
-            social security liabilities can be paid by wealthy retirees instead
-            of an income tax. The Federal Reserve should be the only lender; he
-            wants the central bank to pay for any deficit, while tax rates rise
-            to remit the year before.
+            policy to retire social security where social security liabilities
+            can be paid by wealthy retirees instead of an income tax, refine
+            Medicaid where the Hippocratic Oath, namely for sutures and natal
+            care, can replace most of medicaid, less transplants, and he wants
+            to end the fed where the Federal Reserve should be the only lender;
+            he wants the central bank to pay for any deficit, while tax rates
+            rise to remit the year before. He generally leans right on
+            government spending and left on monopolies, wanting very easy
+            immigration policies, yet doesn't mind a border.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -184,6 +185,9 @@ class App extends React.Component {
           <br />
           He says we will likely win because 65% supported Occupy Wall Street;
           that's 95% among non-voters.
+          {/* Military - 12%, Interest - 5%. Social
+          Security - 26%, Medicaid/Medicare - 26%, Veterans Income Security -
+          17%*/}
           <Turnout
             lastWidth={Math.min(600, this.props.width)}
             style={{
@@ -349,8 +353,9 @@ class App extends React.Component {
           <br />
           <br />
           He believes the birth rates a lifetime ago made the Holodomor, the
-          Great Leap Forward, Covid, and will make another “pandemic” in 2025 by
-          two periods of 20% increases 5 years apart.
+          Great Leap Forward (80m/(1950-1928) == 3m/year * 5 years == 15m),
+          Covid, and will make another “pandemic” in 2025 by two periods of 20%
+          increases 5 years apart.
           <a
             href="https://humanharvest.info"
             style={{
@@ -377,4 +382,5 @@ class App extends React.Component {
   }
 }
 export default App;
+
 
