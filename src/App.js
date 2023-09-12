@@ -157,7 +157,7 @@ class App extends React.Component {
             {space}He generally leans right on government spending and left on
             monopolies, wanting very easy immigration policies, yet doesn't mind
             a border, hating unemployment benefits as corporate welfare, and
-            calling for depository instead of depositary banking, so commercial
+            calling for depositary instead of depository banking, so commercial
             banks do not lend deposits.
             {
               space +
@@ -422,4 +422,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
