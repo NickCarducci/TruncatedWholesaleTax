@@ -158,7 +158,11 @@ class App extends React.Component {
             monopolies, wanting very easy immigration policies, yet doesn't mind
             a border, hating unemployment benefits as corporate welfare, and
             calling for depositary instead of depository banking, so commercial
-            banks do not lend deposits.
+            banks do not lend deposits. Consumer, government, and some corporate
+            debt is not only unsustainable but it’s inflationary, while industry
+            recourse royalty is potentially materially beneficial or
+            deflationary. Wholesale collectives do not bargain when doctors’
+            appointments overbook and pharmaceutical deals expire.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -268,6 +272,28 @@ class App extends React.Component {
             </a>
           </div>
           <span>
+            He aspires to deflate the economy and retire low unemployment
+            forever with technology{space}
+            <i>
+              and fiscal policy to cut out compound interest in order to make
+              balancing the budget at most an annual deficit
+            </i>
+            . Earlier than a certain point (NAIRU) on the Phillips curve of
+            unemployment (x) to prices (y), employment is no longer
+            deflationary.
+          </span>
+          <br />
+          <br />
+          <span>
+            Although he is running for a federal position, he thinks state
+            government is free rider mutable other than suiting-plaintiffs;
+            sales tax can be supported by a geohash-descriptors for accounting
+            software. He believes in tort reform, whereas the fault is of a
+            right to try and a single-party divorce. Nick also wants to force
+            politicians to abstain from voting when they have above $100k share
+            ownership in a government contractor to benefit.
+          </span>
+          <span style={{ display: "none" }}>
             He says non-voters reconcile past budgets, by default, and
             shrinkflation erroneously causes economic growth, so GDP growth per
             capita is abnormal, nor natural and neutral. Finally, he postulates
@@ -279,9 +305,7 @@ class App extends React.Component {
               the consortium.
             </i>
           </span>
-          <br />
-          <br />
-          <span>
+          <span style={{ display: "none" }}>
             Student debt is owned by the treasury, garnishes social security,
             and compounds interest for late fees - but{space}
             <b>
@@ -315,23 +339,10 @@ class App extends React.Component {
             </a>
             .
           </span>
-          <br />
-          <br />
           {/*Do you prefer a truncated progressive tax to a flat tax? Savings in
         public parks of UT, WY, NM lands, resources, and reserves.
         even by age with
             implementation difficulties*/}
-          <span>
-            He aspires to deflate the economy and retire low unemployment
-            forever with technology{space}
-            <i>
-              and fiscal policy to cut out compound interest in order to make
-              balancing the budget at most an annual deficit
-            </i>
-            . Earlier than a certain point (NAIRU) on the Phillips curve of
-            unemployment (x) to prices (y), employment is no longer
-            deflationary.
-          </span>
           <span style={{ display: "none" }}>
             He wants to pay back SSA over a lifetime, by age, with a wealth tax
             for retirees; then, he would move us to truncated progressive tax
@@ -346,18 +357,7 @@ class App extends React.Component {
           </span>
           <br />
           <br />
-          <span>
-            Although he is running for a federal position, he thinks state
-            government is free rider mutable other than suiting-plaintiffs;
-            sales tax can be supported by a geohash-descriptors for accounting
-            software. He believes in tort reform, whereas the fault is of a
-            right to try and a single-party divorce. Nick also wants to force
-            politicians to abstain from voting when they have above $100k share
-            ownership in a government contractor to benefit.
-          </span>
-          <br />
-          <br />
-          <span>
+          <span style={{ display: "none" }}>
             He supports{space}
             <b>regulating monopolies, not prices</b>. He says we will have to
             pay back Social Security to in a lifetime because{space}
@@ -390,8 +390,6 @@ class App extends React.Component {
               healthcare fines.
             </i>
           </span>
-          <br />
-          <br />
           He believes the birth rates a lifetime ago made the Holodomor, the
           Great Leap Forward (80m/(1950-1928) == 3m/year * 5 years == 15m),
           Covid, and will make another “pandemic” in 2025 by two periods of 20%
@@ -422,3 +420,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
