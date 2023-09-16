@@ -132,8 +132,7 @@ class App extends React.Component {
                 backgroundColor: "rgba(240,230,180,.7)"
               }}
             >
-              (even a guaranteed minimum income, means test, and without
-              medicaid inpatient standardized guarantee schemes)
+              (even a guaranteed minimum income)
             </span>
             ,{space}
             <span
@@ -143,6 +142,7 @@ class App extends React.Component {
             >
               refine Medicaid where the Hippocratic Oath, namely for sutures and
               natal care, can replace most of medicaid, less transplants
+              (without medicaid inpatient standardized guarantee schemes)
             </span>
             , and he wants to{space}
             <span
