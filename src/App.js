@@ -155,14 +155,28 @@ class App extends React.Component {
               rise to remit the year before.
             </span>
             {space}He generally leans right on government spending and left on
-            monopolies, wanting very easy immigration policies, yet doesn't mind
-            a border, hating unemployment benefits as corporate welfare, and
-            calling for depositary instead of depository banking, so commercial
-            banks do not lend deposits. Consumer, government, and some corporate
-            debt is not only unsustainable but it’s inflationary, while industry
-            recourse royalty is potentially materially beneficial or
-            deflationary. Wholesale collectives do not bargain when doctors’
-            appointments overbook and pharmaceutical deals expire.
+            monopolies, wanting very easy immigration policies (yet doesn't mind
+            a border), hating unemployment benefits (as corporate welfare), and
+            calling for depositary- instead of depository-banking (so commercial
+            banks do not lend deposits).{space}
+            <span
+              style={{
+                backgroundColor: "black",
+                color: "white"
+              }}
+            >
+              Bills surrender the right to own of third party donee
+              beneficiaries.
+            </span>
+            {space}Consumer, government, and some corporate debt is not only
+            unsustainable but it’s inflationary, while industry recourse royalty
+            is potentially materially beneficial or deflationary, wholesale
+            collectives do not bargain when doctors’ appointments overbook and
+            pharmaceutical deals expire, and it would take multiple lifetimes to
+            tax enough to seriously address the public debt problem so he would
+            confiscate bonds to pay off social security liabilities and lessen
+            the tax rate annually, and make central bank the only lender of
+            bills, no bonds.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -412,6 +426,9 @@ class App extends React.Component {
               border: "0px solid"
             }}
           />
+          He wants to save borrowers from foreclosure by making lenders sell for
+          them with a realtor commission, or refinance if lower.
+          <br />
           <br />
           <br />
         </div>
@@ -420,4 +437,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
