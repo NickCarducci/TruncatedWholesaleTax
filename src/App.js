@@ -167,21 +167,27 @@ class App extends React.Component {
               }}
             >
               Bills surrender the right to own of third party donee
-              beneficiaries.
+              beneficiaries. Debt should be paid by industry, instead of late
+              fees. Student loans by degree, and mortgages auction borrower
+              equity.
             </span>
             {space}Consumer, government, and some corporate debt is not only
             unsustainable but it’s inflationary, while industry recourse royalty
             is potentially materially beneficial or deflationary, wholesale
             collectives do not bargain when doctors’ appointments overbook and
-            pharmaceutical deals expire, and it would take multiple lifetimes to
-            tax enough to seriously address the public debt problem so he would
-            confiscate bonds to pay off social security liabilities and lessen
-            the tax rate annually, and make central bank the only lender of
-            bills, no bonds. He thinks shrinkflation causes growth, and interest
-            payments should match new money from quantitative easing.
+            pharmaceutical deals expire, and make the central bank the only
+            lender of bills, no bonds. He thinks shrinkflation causes growth,
+            and interest payments should match new money from quantitative
+            easing.
             {
               space +
-                space /*He thinks the income and inheritance tax can be replaced by a wealth
+                space /*
+                it would take multiple lifetimes to
+            tax enough to seriously address the public debt problem so he would
+            confiscate bonds to pay off social security liabilities and lessen
+            the tax rate annually, and 
+                
+                He thinks the income and inheritance tax can be replaced by a wealth
             tax based on age, and the $21t social security liabilities can be
             retired in a lifetime ($21t/57m=$368,421). He thinks deflation is
             good, and insurance and bills surrender the purchases of third
