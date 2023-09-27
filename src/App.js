@@ -123,16 +123,17 @@ class App extends React.Component {
                 backgroundColor: "rgba(150,250,200,.7)"
               }}
             >
-              retire social security where social security liabilities can be
-              paid by wealthy retirees instead of an income tax
+              retire social security where income tax lowers by a 1/78th
+              annually
             </span>
-            {space}
             <span
               style={{
+                display: "none",
                 backgroundColor: "rgba(240,230,180,.7)"
               }}
             >
-              (even a guaranteed minimum income)
+              social security liabilities can be paid by wealthy retirees
+              instead of an income tax (even a guaranteed minimum income)
             </span>
             ,{space}
             <span
@@ -141,7 +142,7 @@ class App extends React.Component {
               }}
             >
               refine Medicaid where the Hippocratic Oath, namely for sutures and
-              natal care, can replace most of medicaid, less transplants
+              natal care, is to replace most of medicaid, less transplants
               (without medicaid inpatient standardized guarantee schemes)
             </span>
             , and he wants to{space}
@@ -438,4 +439,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
