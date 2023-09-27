@@ -176,7 +176,8 @@ class App extends React.Component {
             tax enough to seriously address the public debt problem so he would
             confiscate bonds to pay off social security liabilities and lessen
             the tax rate annually, and make central bank the only lender of
-            bills, no bonds.
+            bills, no bonds. He thinks shrinkflation causes growth, and interest
+            payments should match new money from quantitative easing.
             {
               space +
                 space /*He thinks the income and inheritance tax can be replaced by a wealth
@@ -437,3 +438,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
