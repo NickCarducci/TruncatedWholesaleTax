@@ -153,7 +153,9 @@ class App extends React.Component {
             >
               end the fed where the Federal Reserve should be the only lender;
               he wants the central bank to pay for any deficit, while tax rates
-              rise to remit the year before.
+              rise to remit the year before (Is a continuing resolution with a
+              deficit constitutional? Are growing interest payments uniform?
+              Article 1 Section 8).
             </span>
             {space}He generally leans right on government spending and left on
             monopolies, wanting very easy immigration policies (yet doesn't mind
@@ -448,3 +450,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
