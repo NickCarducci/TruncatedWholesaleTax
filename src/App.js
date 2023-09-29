@@ -232,8 +232,11 @@ class App extends React.Component {
             <br />
             <br />
             His opponent incumbent Bob Menendez has been tried twice for bribery
-            and has an animal rights policy stance for horses that stops short
-            for lab rats{space}
+            (How did Bob Menendez persuade the insurance fraud prosecutor to
+            resolve the prosecution more favorably to the defendant Uribe
+            without jail time nor charges? What kind of pressure was applied as
+            supervisor in 2019?) and has an animal rights policy stance for
+            horses that stops short for lab rats{space}
             <i>with the human right to try without prescriptions.</i>
             {space}
             He thinks Trump should have gotten a permit for his own rally-riot
