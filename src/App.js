@@ -123,8 +123,10 @@ class App extends React.Component {
                 backgroundColor: "rgba(150,250,200,.7)"
               }}
             >
-              retire social security where income tax lowers by a 1/78th
-              annually
+              retire social security where income taxes lower by 1/78th annually
+              (Would young people rather make a deal to end FICA income tax
+              minimums? Can income taxes be lowered by 1/78 annually while
+              fulfilling $23t social security liabilities, 2023?)
             </span>
             <span
               style={{
