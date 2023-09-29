@@ -306,8 +306,11 @@ class App extends React.Component {
               balancing the budget at most an annual deficit
             </i>
             . Earlier than a certain point (NAIRU) on the Phillips curve of
-            unemployment (x) to prices (y), employment is no longer
-            deflationary.
+            unemployment (x) to prices (y), employment is no longer deflationary
+            (Is joblessness or unemployment a problem due to benefits costs? Do
+            small businesses get unemployment benefits? Do unemployment benefits
+            come from third party taxpayers and savers? Where does the
+            government get its money?).
           </span>
           <br />
           <br />
@@ -450,4 +453,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
