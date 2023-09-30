@@ -190,11 +190,13 @@ class App extends React.Component {
             </i>
             {space}He thinks consumer, government, and some corporate debt is
             not only unsustainable but it’s inflationary (Are rising real
-            product wages inflationary?), while industry recourse royalty is
-            potentially materially beneficial or deflationary, wholesale
-            collectives do not bargain when doctors’ appointments overbook and
-            pharmaceutical deals expire, and it's best to make the central bank
-            the only lender of bills, no bonds.
+            product wages inflationary? Does shrinkflation cause economic
+            growth? Does the economy grow by cutting taxes because of the
+            deficit?), while industry recourse royalty is potentially materially
+            beneficial or deflationary, wholesale collectives do not bargain
+            when doctors’ appointments overbook and pharmaceutical deals expire,
+            and it's best to make the central bank the only lender of bills, no
+            bonds.
             {
               space +
                 space /*He thinks shrinkflation causes
