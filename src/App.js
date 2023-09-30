@@ -110,10 +110,12 @@ class App extends React.Component {
           }}
         >
           <h2>Retire, refine, remit!</h2>
-          <h3 style={{ color: "grey" }}>
+          <h3
+            style={{ color: "grey" }}
+            //Medicaid for Transplants, Retirees pay SSA.
+          >
             New Candidate: Free Rider Mutable Taxes make China and Russia
-            interested in Taiwan and Ukraine; Medicaid for Transplants, Retirees
-            pay SSA.
+            interested in Taiwan and Ukraine; Geohash Descriptor Protocol
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
@@ -160,29 +162,38 @@ class App extends React.Component {
               Article 1 Section 8).
             </span>
             {space}He generally leans right on government spending and left on
-            monopolies, wanting very easy immigration policies (yet doesn't mind
-            a border), hating unemployment benefits (as corporate welfare), and
-            calling for depositary- instead of depository-banking (so commercial
-            banks do not lend deposits).{space}
+            monopolies (Do all concert and sport event tickets originate with
+            Ticketmaster? How can a developer partner? Are venues the real
+            monopolies?{space}
+            <i>Should landlords be limited in price or quantity?</i>), wanting
+            very easy immigration policies (yet doesn't mind a border), hating
+            unemployment benefits (as corporate welfare), and calling for
+            depositary- instead of depository-banking (so commercial banks do
+            not lend deposits).{space}
             <span
               style={{
                 backgroundColor: "black",
                 color: "white"
               }}
             >
-              Bills surrender the right to own of third party donee
-              beneficiaries. Debt should be paid by industry, instead of late
-              fees. Student loans by degree, and mortgages auction borrower
-              equity.
+              He thinks bills surrender the right to own of third party donee
+              beneficiaries and debt should be paid by industry, instead of late
+              fees while student loans are assessed by degree, and mortgages
+              auction borrower equity away from the commissioned lender-realtor.
             </span>
+            {space}
+            <i>
+              Was the 2022 federal deficit $1.4t or $2.8t expenditures less
+              receipts?
+            </i>
             {space}Consumer, government, and some corporate debt is not only
-            unsustainable but it’s inflationary, while industry recourse royalty
-            is potentially materially beneficial or deflationary, wholesale
-            collectives do not bargain when doctors’ appointments overbook and
-            pharmaceutical deals expire, and make the central bank the only
-            lender of bills, no bonds. He thinks shrinkflation causes growth,
-            and interest payments should match new money from quantitative
-            easing.
+            unsustainable but it’s inflationary (Are rising real product wages
+            inflationary?), while industry recourse royalty is potentially
+            materially beneficial or deflationary, wholesale collectives do not
+            bargain when doctors’ appointments overbook and pharmaceutical deals
+            expire, and make the central bank the only lender of bills, no
+            bonds. He thinks shrinkflation causes growth, and interest payments
+            need new money from quantitative easing to work.
             {
               space +
                 space /*
@@ -302,7 +313,7 @@ class App extends React.Component {
           </div>
           <span>
             He aspires to deflate the economy and retire low unemployment
-            forever with technology{space}
+            forever (vaults.biz/gdp) with technology{space}
             <i>
               and fiscal policy to cut out compound interest in order to make
               balancing the budget at most an annual deficit
@@ -455,3 +466,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
