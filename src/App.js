@@ -114,8 +114,9 @@ class App extends React.Component {
             style={{ color: "grey" }}
             //Medicaid for Transplants, Retirees pay SSA.
           >
-            New Candidate: Free Rider Mutable Taxes make China and Russia
-            interested in Taiwan and Ukraine; Geohash Descriptor Protocol
+            A New Candidate says Free Rider Mutable Taxes make China and Russia
+            interested in Taiwan and Ukraine and wants a Geohash Descriptor
+            Protocol
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
@@ -126,9 +127,9 @@ class App extends React.Component {
               }}
             >
               retire social security where income taxes lower by 1/78th annually
-              (Would young people rather make a deal to end FICA income tax
-              minimums? Can income taxes be lowered by 1/78 annually while
-              fulfilling $23t social security liabilities, 2023?)
+              (young people rather make a deal to end FICA income tax minimums
+              for 1/78 lower income taxes annually while fulfilling social
+              security liabilities which as of 2023 is $23t)
             </span>
             <span
               style={{
@@ -158,17 +159,17 @@ class App extends React.Component {
             >
               end the fed where the Federal Reserve should be the only lender;
               he wants the central bank to pay for any deficit, while tax rates
-              rise to remit the year before (Is a continuing resolution with a
-              deficit constitutional? Are growing interest payments uniform?
-              Article 1 Section 8).
+              rise to remit the year before (a continuing resolution with a
+              deficit isn't Article 1 Section 8 uniform constitutional because
+              of growing interest payments).
             </span>
             {space}He generally leans right on government spending and left on
-            monopolies (Do all concert and sport event tickets originate with
-            Ticketmaster? How can a developer partner? Are venues the real
-            monopolies?{space}
-            <i>Should landlords be limited in price or quantity?</i>), wanting
-            very easy immigration policies (yet doesn't mind a border), hating
-            unemployment benefits (as corporate welfare), and calling for
+            monopolies (Concert and sport event tickets originate with
+            Ticketmaster, but how can a developer partner? Venues the real
+            monopolies, and so{space}
+            <i>landlords be limited in quantity, not necessarily price</i>),
+            wanting very easy immigration policies (yet doesn't mind a border),
+            hating unemployment benefits (as corporate welfare), and calling for
             depositary- instead of depository-banking (so commercial banks do
             not lend deposits).{space}
             <span
