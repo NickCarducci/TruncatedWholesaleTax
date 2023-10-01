@@ -146,8 +146,9 @@ class App extends React.Component {
               }}
             >
               refine Medicaid where the Hippocratic Oath, namely for sutures and
-              natal care, is to replace most of medicaid, less transplants
-              (without medicaid inpatient standardized guarantee schemes)
+              natal care by business protocol, is to replace most of medicaid to
+              be actually free less transplants (without medicaid inpatient
+              standardized guarantee schemes)
             </span>
             , and he wants to{space}
             <span
@@ -472,3 +473,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
