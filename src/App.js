@@ -243,7 +243,8 @@ class App extends React.Component {
           <br />
           <span>
             He’s earned a political science bachelor degree JHU with an
-            economics minor in 2015,{space}
+            economics minor in 2015 (he thinks interest payments requires new
+            money),{space}
             <i>
               as well as learned public finance and international law at
               Monmouth University
@@ -251,15 +252,20 @@ class App extends React.Component {
             . He is the product manager of Thumbprint.us social calendar,
             Quick.net.co bookkeeping facility, Vaults.biz industry assessment,
             and Scopes.cc contract manager. He also invented a voting system
-            that allows for anonymous voting.
+            that allows for anonymous voting, and plans to get a professional
+            accounting MBA to become a CPA.
             <br />
             <br />
             His opponent incumbent Bob Menendez has been tried twice for bribery
             (How did Bob Menendez persuade the insurance fraud prosecutor to
             resolve the prosecution more favorably to the defendant Uribe
             without jail time nor charges? What kind of pressure was applied as
-            supervisor in 2019?) and has an animal rights policy stance for
-            horses that stops short for lab rats{space}
+            supervisor in 2019? Bank fraud is bonk because insurance adjusters
+            need to do their own appraisals/credit checks. Insurance fraud is
+            not. Is USDA prosecuting their own monopoly with IS EG Halal
+            Certified, Inc.?) and has an animal rights policy stance for horses
+            that stops short for lab rats
+            {space}
             <i>with the human right to try without prescriptions.</i>
             {space}
             He thinks Trump should have gotten a permit for his own rally-riot
@@ -474,4 +480,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
