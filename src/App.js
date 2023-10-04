@@ -127,9 +127,9 @@ class App extends React.Component {
               }}
             >
               retire social security where income taxes lower by 1/78th annually
-              (young people rather make a deal to end FICA income tax minimums
-              for 1/78 lower income taxes annually while fulfilling social
-              security liabilities which as of 2023 is $23t)
+              (where young people rather make a deal to end FICA income tax
+              minimums for 1/78 lower income taxes annually while fulfilling
+              social security liabilities which as of 2023 is $23t)
             </span>
             <span
               style={{
@@ -165,13 +165,15 @@ class App extends React.Component {
             </span>
             {space}He generally leans right on government spending and left on
             monopolies (Concert and sport event tickets originate with
-            Ticketmaster, but how can a developer partner? Venues the real
+            Ticketmaster, but how can a developer partner? Venues are the real
             monopolies, and so{space}
-            <i>landlords be limited in quantity, not necessarily price</i>),
-            wanting very easy immigration policies (yet doesn't mind a border),
-            hating unemployment benefits (as corporate welfare), and calling for
-            depositary- instead of depository-banking (so commercial banks do
-            not lend deposits).{space}
+            <i>
+              landlords should be limited in quantity and not necessarily price
+            </i>
+            ), wanting very easy immigration policies (yet doesn't mind a
+            border), hating unemployment benefits (as corporate welfare), and
+            calling for depositary- instead of depository-banking (so commercial
+            banks do not lend deposits).{space}
             <span
               style={{
                 backgroundColor: "black",
@@ -194,11 +196,13 @@ class App extends React.Component {
             not only unsustainable but it’s inflationary (Are rising real
             product wages inflationary? Does shrinkflation cause economic
             growth? Does the economy grow by cutting taxes because of the
-            deficit?), while industry recourse royalty is potentially materially
-            beneficial or deflationary, wholesale collectives do not bargain
-            when doctors’ appointments overbook and pharmaceutical deals expire,
-            and it's best to make the central bank the only lender of bills, no
-            bonds.
+            deficit? Is new production better than used trade? Why are
+            economists obsessed with real income? Isn’t labor costly and at an
+            unnatural point wasteful?), while industry recourse royalty is
+            potentially materially beneficial or deflationary, wholesale
+            collectives do not bargain when doctors’ appointments overbook and
+            pharmaceutical deals expire, and it's best to make the central bank
+            the only lender of bills, no bonds.
             {
               space +
                 space /*He thinks shrinkflation causes
@@ -480,3 +484,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
