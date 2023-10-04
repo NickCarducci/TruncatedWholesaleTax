@@ -164,9 +164,7 @@ class App extends React.Component {
               of growing interest payments).
             </span>
             {space}He generally leans right on government spending and left on
-            monopolies (Concert and sport event tickets originate with
-            Ticketmaster, but how can a developer partner? Venues are the real
-            monopolies, and so{space}
+            monopolies (venues are the real monopolies, and so{space}
             <i>
               landlords should be limited in quantity and not necessarily price
             </i>
@@ -234,7 +232,8 @@ class App extends React.Component {
           disinflation.  */
               }
               <i>
-                Nick Carducci needs 741 more signatures! He would prefer to
+                Nick Carducci needs 741 more signatures!
+                (change.org/nickcarducci) He would prefer to
                 {space}
                 <b>discharge</b>
                 {space}student debt to bailouts, as well as liquidate compound
