@@ -202,7 +202,7 @@ class App extends React.Component {
             potentially materially beneficial or deflationary, wholesale
             collectives do not bargain when doctors’ appointments overbook and
             pharmaceutical deals expire, and it's best to make the central bank
-            the only lender of bills, no bonds.
+            the only lender of bills, no notes nor bonds.
             {
               space +
                 space /*He thinks shrinkflation causes
@@ -484,4 +484,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
