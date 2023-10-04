@@ -119,8 +119,8 @@ class App extends React.Component {
             Protocol
           </h3>
           <span>
-            Nicholas Matthew Carducci is running for Senate with a new tax
-            policy (taxparty.org) to{space}
+            Nicholas Matthew Carducci is running for U.S. Senate in New Jersey
+            with a new tax policy (taxparty.org) to{space}
             <span
               style={{
                 backgroundColor: "rgba(150,250,200,.7)"
@@ -484,3 +484,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
