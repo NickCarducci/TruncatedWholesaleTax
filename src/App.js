@@ -120,7 +120,7 @@ class App extends React.Component {
           </h3>
           <span>
             Nicholas Matthew Carducci is running for Senate with a new tax
-            policy to{space}
+            policy (taxparty.org) to{space}
             <span
               style={{
                 backgroundColor: "rgba(150,250,200,.7)"
@@ -234,7 +234,7 @@ class App extends React.Component {
           disinflation.  */
               }
               <i>
-                Nick Carducci needs 742 more signatures! He would prefer to
+                Nick Carducci needs 741 more signatures! He would prefer to
                 {space}
                 <b>discharge</b>
                 {space}student debt to bailouts, as well as liquidate compound
@@ -454,7 +454,7 @@ class App extends React.Component {
           He believes the birth rates a lifetime ago made the Holodomor, the
           Great Leap Forward (80m/(1950-1928) == 3m/year * 5 years == 15m),
           Covid, and will make another “pandemic” in 2025 by two periods of 20%
-          increases 5 years apart.
+          increases 5 years apart (Why doesn’t “baby boomer” start in 1941?).
           <a
             href="https://humanharvest.info"
             style={{
