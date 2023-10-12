@@ -179,11 +179,10 @@ class App extends React.Component {
               }}
             >
               He thinks bills surrender the right to own of third party donee
-              beneficiaries (Do interest payments need new money from
-              quantitative easing to work?) and debt should be paid by industry,
-              instead of late fees while student loans are assessed by degree,
-              and mortgages auction borrower equity away from the commissioned
-              lender-realtor.
+              beneficiaries (interest payments need new money to work) and debt
+              should be paid by industry, instead of late fees while student
+              loans are assessed by degree, and mortgages auction borrower
+              equity away from the commissioned lender-realtor.
             </span>
             {space}
             <i>
@@ -476,6 +475,9 @@ class App extends React.Component {
           them with a realtor commission, or refinance if lower.
           <br />
           <br />
+          26 Battin Road, Fair Haven, NJ 07704
+          <br />
+          <br />
           <br />
         </div>
       </div>
@@ -483,4 +485,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
