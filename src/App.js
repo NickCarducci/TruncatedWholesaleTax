@@ -117,7 +117,7 @@ class App extends React.Component {
               style={{
                 color: "white"
               }}
-              href="https://account.venmo.com/u/truncatedwholesaletax"
+              href="https://account.venmo.com/u/nick4nj"
             >
               Donate today
             </a>
