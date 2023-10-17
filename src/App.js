@@ -45,16 +45,35 @@ class App extends React.Component {
       >
         <div
           style={{
-            textAlign: "center",
-            bottom: "0px",
             width: "100%",
-            padding: "10px 0px",
             position: "fixed",
-            backgroundColor: "black",
-            color: "white"
+            bottom: "0px"
           }}
         >
-          sayists@icloud.com
+          <div
+            style={{
+              textAlign: "center",
+              bottom: "0px",
+              width: "100%",
+              padding: "10px 0px",
+              backgroundColor: "dodgerblue",
+              color: "white"
+            }}
+          >
+            venmo.com/nick4nj
+          </div>
+          <div
+            style={{
+              textAlign: "center",
+              bottom: "0px",
+              width: "100%",
+              padding: "10px 0px",
+              backgroundColor: "black",
+              color: "white"
+            }}
+          >
+            sayists@icloud.com
+          </div>
         </div>
         <canvas ref={this.colorPickerRef} height="100%" width="100px"></canvas>
         <div
@@ -479,9 +498,13 @@ class App extends React.Component {
           <br />
           <br />
           <br />
+          <br />
+          <br />
+          <br />
         </div>
       </div>
     );
   }
 }
 export default App;
+
