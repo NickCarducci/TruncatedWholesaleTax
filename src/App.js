@@ -146,6 +146,7 @@ class App extends React.Component {
           >
             Shrinkflation causes bad growth
           </h2>
+          <h2>Retire, refine, remit!</h2>
         </div>
         <div
           style={{
@@ -153,7 +154,6 @@ class App extends React.Component {
             margin: "5px"
           }}
         >
-          <h2>Retire, refine, remit!</h2>
           <h3
             style={{ color: "grey" }}
             //Medicaid for Transplants, Retirees pay SSA.
