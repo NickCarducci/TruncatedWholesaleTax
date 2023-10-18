@@ -519,17 +519,16 @@ class App extends React.Component {
           them with a realtor commission, or refinance if lower.
           <br />
           <br />
-          26 Battin Road, Fair Haven, NJ 07704
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
         </div>
+        26 Battin Road, Fair Haven, NJ 07704
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
     );
   }
 }
 export default App;
-
