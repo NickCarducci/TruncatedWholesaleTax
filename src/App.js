@@ -38,93 +38,110 @@ class App extends React.Component {
       <div
         style={{
           fontFamily: "'Pacifico', sans-serif",
-          maxWidth: "600px",
-          display: "flex",
-          flexWrap: "wrap"
+          maxWidth: "600px"
         }}
       >
         <div
           style={{
-            width: "100%",
-            position: "fixed",
-            bottom: "0px"
+            display: "flex",
+            flexWrap: "wrap"
           }}
         >
           <div
             style={{
-              textAlign: "center",
-              bottom: "0px",
               width: "100%",
-              padding: "10px 0px",
-              backgroundColor: "dodgerblue",
-              color: "white"
+              position: "fixed",
+              bottom: "0px"
             }}
           >
-            venmo.com/nick4nj
+            <div
+              style={{
+                textAlign: "center",
+                bottom: "0px",
+                width: "100%",
+                padding: "10px 0px",
+                backgroundColor: "dodgerblue",
+                color: "white"
+              }}
+            >
+              venmo.com/nick4nj
+            </div>
+            <div
+              style={{
+                textAlign: "center",
+                bottom: "0px",
+                width: "100%",
+                padding: "10px 0px",
+                backgroundColor: "black",
+                color: "white"
+              }}
+            >
+              sayists@icloud.com
+            </div>
           </div>
+          <canvas
+            ref={this.colorPickerRef}
+            height="100%"
+            width="100px"
+          ></canvas>
           <div
             style={{
-              textAlign: "center",
-              bottom: "0px",
-              width: "100%",
-              padding: "10px 0px",
-              backgroundColor: "black",
-              color: "white"
+              position: "relative",
+              width: "calc(100% - 60px)",
+              maxWidth: "300px"
             }}
           >
-            sayists@icloud.com
+            <img
+              style={{
+                border: "25px solid rgb(170,120,220)",
+                borderBottom: "70px solid rgb(170,120,220)",
+                width: "100%"
+              }}
+              alt="Nick Carducci portrait"
+              src="https://www.dropbox.com/scl/fi/xpju5ywam09gpomqkqxkh/portrait_Carducci.jpg?rlkey=qsi2213tnf6eadilxkbaoe7gh&raw=1"
+            />
+            <div
+              style={{
+                fontSize: "15px",
+                textAlign: "right",
+                left: "50px",
+                bottom: "20px",
+                position: "absolute",
+                backgroundColor: "rgb(170,120,220)",
+                color: "white"
+              }}
+            >
+              <a
+                style={{
+                  color: "white"
+                }}
+                href="https://change.org/nickcarducci"
+              >
+                Sign the petition
+              </a>
+              {space}Bankruptcy is Fraud
+              <br />
+              <a
+                style={{
+                  color: "white"
+                }}
+                href="https://account.venmo.com/u/nick4nj"
+              >
+                Donate today
+              </a>
+            </div>
           </div>
         </div>
-        <canvas ref={this.colorPickerRef} height="100%" width="100px"></canvas>
         <div
           style={{
-            position: "relative",
-            width: "calc(100% - 60px)",
-            maxWidth: "300px"
+            margin: "5px"
           }}
         >
-          <img
-            style={{
-              border: "25px solid rgb(170,120,220)",
-              borderBottom: "70px solid rgb(170,120,220)",
-              width: "100%"
-            }}
-            alt="Nick Carducci portrait"
-            src="https://www.dropbox.com/scl/fi/xpju5ywam09gpomqkqxkh/portrait_Carducci.jpg?rlkey=qsi2213tnf6eadilxkbaoe7gh&raw=1"
-          />
-          <div
-            style={{
-              fontSize: "15px",
-              textAlign: "right",
-              left: "50px",
-              bottom: "20px",
-              position: "absolute",
-              backgroundColor: "rgb(170,120,220)",
-              color: "white"
-            }}
-          >
-            <a
-              style={{
-                color: "white"
-              }}
-              href="https://change.org/nickcarducci"
-            >
-              Sign the petition
-            </a>
-            {space}Bankruptcy is Fraud
-            <br />
-            <a
-              style={{
-                color: "white"
-              }}
-              href="https://account.venmo.com/u/nick4nj"
-            >
-              Donate today
-            </a>
-          </div>
+          <h2>Shrinkflation causes bad growth</h2>
         </div>
         <div
           style={{
+            display: "none",
             margin: "5px"
           }}
         >
