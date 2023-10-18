@@ -137,11 +137,19 @@ class App extends React.Component {
             margin: "5px"
           }}
         >
-          <h2>Shrinkflation causes bad growth</h2>
+          <h2
+            onClick={() =>
+              this.setState({
+                openShrinkflation: !this.state.openShrinkflation
+              })
+            }
+          >
+            Shrinkflation causes bad growth
+          </h2>
         </div>
         <div
           style={{
-            display: "none",
+            display: !this.state.openShrinkflation && "none",
             margin: "5px"
           }}
         >
