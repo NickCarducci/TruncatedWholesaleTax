@@ -146,6 +146,7 @@ class App extends React.Component {
           >
             Shrinkflation causes bad growth
           </h2>
+          When you need to eat or spend more to survive.
           <h2>Retire, refine, remit!</h2>
         </div>
         <div
