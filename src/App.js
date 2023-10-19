@@ -147,6 +147,12 @@ class App extends React.Component {
             Shrinkflation causes bad growth
           </h2>
           When you need to eat or spend more to survive.
+          <br />
+          <i>
+            Some growth, like debt that’s paid on time relative to an industry
+            and beyond the cost of living, is good because it deflates, but
+            that’s not what has happened.
+          </i>
           <h2>Retire, refine, remit!</h2>
         </div>
         <div
