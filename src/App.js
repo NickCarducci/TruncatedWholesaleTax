@@ -153,6 +153,8 @@ class App extends React.Component {
             and beyond the cost of living, is good because it deflates, but
             that’s not what has happened.
           </i>
+          {space}Is producing more better if the deflation doesn't outweigh the
+          costs?
           <h2>Retire, refine, remit!</h2>
         </div>
         <div
