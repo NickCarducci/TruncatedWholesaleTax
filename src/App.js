@@ -154,7 +154,9 @@ class App extends React.Component {
             that’s not what has happened.
           </i>
           {space}Is producing more better if the deflation doesn't outweigh the
-          costs?
+          costs? Is spending only good if it deflates by new competition? What
+          is economic stability? Should interest rates match new money? Is there
+          a limit to inflation and hours worked?
           <h2>Stop collateral, lease, and warranty</h2>
           Let's start with banks not lending my deposits.
           <br />
