@@ -135,7 +135,7 @@ class App extends React.Component {
         <div
           style={{
             margin: "5px"
-          }}
+          }} //ban duress, shrinkflation only
         >
           <h2
             onClick={() =>
@@ -155,6 +155,9 @@ class App extends React.Component {
           </i>
           {space}Is producing more better if the deflation doesn't outweigh the
           costs?
+          <h2>Stop collateral, lease, and warranty</h2>
+          Let's start with banks not lending my deposits.
+          <br />
           <h2>Retire, refine, remit!</h2>
         </div>
         <div
@@ -541,3 +544,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
