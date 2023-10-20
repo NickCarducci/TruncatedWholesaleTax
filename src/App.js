@@ -158,7 +158,10 @@ class App extends React.Component {
           is economic stability? Should interest rates match new money? Is there
           a limit to inflation and hours worked?
           <h2>Stop collateral, lease, and warranty</h2>
-          Let's start with banks not lending my deposits.
+          Let's start with banks not lending my deposits. Never surrender third
+          party donee beneficiary.
+          <br />
+          <i>Stop inflation</i>
           <br />
           <h2>Retire, refine, remit!</h2>
         </div>
