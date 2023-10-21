@@ -137,6 +137,9 @@ class App extends React.Component {
             margin: "5px"
           }} //ban duress, shrinkflation only
         >
+          <a href="https://treesdebindcarbon.quora.com/Why-is-growth-important-to-humans-1">
+            Why is spending more a good thing to economists?
+          </a>
           <h2
             onClick={() =>
               this.setState({
@@ -150,8 +153,8 @@ class App extends React.Component {
           <br />
           <i>
             Some growth, like debt that’s paid on time relative to an industry
-            and beyond the cost of living, is good because it deflates, but
-            that’s not what has happened.
+            and beyond the cost of living, is good because it by new
+            competition, but that’s not what has happened.
           </i>
           {space}Is producing more better if the deflation doesn't outweigh the
           costs? Is spending only good if it deflates by new competition? What
