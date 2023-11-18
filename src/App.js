@@ -119,7 +119,7 @@ class App extends React.Component {
               >
                 Sign the petition
               </a>
-              {space}Bankruptcy is Fraud
+              {space}Risk-Free Banking
               <br />
               <a
                 style={{
@@ -132,9 +132,9 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        If you want risk-free banking, go to taxparty.org - where we ban
-        invoices and make all collateral debt a payday loan beyond the cost of
-        living.
+        <h2>Nick Carducci for U.S. Senate</h2>
+        We ban invoices and make all collateral debt a payday loan beyond the
+        cost of living.
         <br />
         Current mortgages can treat the lender as a realtor or refinance if
         there is an auction lower.
