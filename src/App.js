@@ -38,7 +38,7 @@ class App extends React.Component {
       <div
         style={{
           fontFamily: "'Pacifico', sans-serif",
-          maxWidth: "600px"
+          maxWidth: "400px"
         }}
       >
         <div
@@ -132,8 +132,23 @@ class App extends React.Component {
             </div>
           </div>
         </div>
+        If you want risk-free banking, go to taxparty.org - where we ban
+        invoices and make all collateral debt a payday loan beyond the cost of
+        living.
+        <br />
+        Current mortgages can treat the lender as a realtor or refinance if
+        there is an auction lower.
+        <br />
+        We also ban implausible use leases beyond 5 1 bathroom condos,
+        storefronts, or office-floors.
+        <br />
+        Finally, we ban guarantees sold in contracts.
+        <br />
+        Why is real GDI growth not considered shrinkflation to live? Why is GDP
+        sometimes portrayed as a utility preferred over leisure?
         <div
           style={{
+            display: "none",
             margin: "5px"
           }} //ban duress, shrinkflation only
         >
