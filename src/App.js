@@ -133,11 +133,23 @@ class App extends React.Component {
           </div>
         </div>
         <h2>Nick Carducci for U.S. Senate</h2>
-        We ban invoices and make all collateral debt a payday loan beyond the
-        cost of living.
+        <span
+          style={{
+            color: "dodgerblue"
+          }}
+        >
+          We ban invoices and make all collateral debt a payday loan beyond the
+          cost of living.
+        </span>
         <br />
-        Current mortgages can treat the lender as a realtor or refinance if
-        there is an auction lower.
+        <span
+          style={{
+            color: "firebrick"
+          }}
+        >
+          Current mortgages can treat the lender as a realtor or refinance if
+          there is an auction lower.
+        </span>
         <br />
         We also ban implausible use leases beyond 5 1 bathroom condos,
         storefronts, or office-floors.
@@ -146,6 +158,7 @@ class App extends React.Component {
         <br />
         Why is real GDI growth per capita not considered shrinkflation to live?
         Why is GDP sometimes portrayed as a utility preferred over leisure?
+        <br />
         <div
           style={{
             display: "none",
@@ -567,4 +580,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
