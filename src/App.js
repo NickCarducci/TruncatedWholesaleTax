@@ -157,7 +157,7 @@ class App extends React.Component {
         Finally, we ban guarantees sold in contracts.
         <br />
         Why is real GDI growth per capita not considered shrinkflation to live?
-        Why is GDP sometimes portrayed as a utility preferred over leisure?
+        Is output or leisure economic utility?
         <br />
         <div
           style={{
@@ -580,3 +580,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
