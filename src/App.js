@@ -136,28 +136,36 @@ class App extends React.Component {
         <span
           style={{
             color: "dodgerblue"
+            //We ban invoices and make all collateral debt a payday loan beyond the
+            //cost of living.  Replace debt investment with limited royalties compound
           }}
         >
-          We ban invoices and make all collateral debt a payday loan beyond the
-          cost of living.
+          Replace debt with royalties on sales (like Mr. Wonderful does on Shark
+          Tank sometimes), instead of paying interest and late fees in the
+          beginning. Wait for the customer to make money.
         </span>
         <br />
         <span
           style={{
             color: "firebrick"
+            //Current mortgages can treat the lender as a realtor or refinance if
+            //there is an auction lower.
+            //In the event of defaulting on a home loan, banks are only allowed to
+            //take what they are owed from the proceeds of the sale of a home,
+
+            //We also ban implausible use leases beyond 5 1 bathroom condos,
+            //storefronts, or office-floors.
+            //Finally, we ban guarantees sold in contracts.
+            //Why is real GDI growth per capita not considered shrinkflation to live?
+            //Is output or leisure economic utility?
           }}
         >
-          Current mortgages can treat the lender as a realtor or refinance if
-          there is an auction lower.
+          In the event of defaulting on a loan, the lender can only take what
+          they are owed from the sale of the collateral's market value; for
+          instance, the equity returns to the borrower who couldn't keep up with
+          their payments, and so that they can benefit from the equity in their
+          investment.
         </span>
-        <br />
-        We also ban implausible use leases beyond 5 1 bathroom condos,
-        storefronts, or office-floors.
-        <br />
-        Finally, we ban guarantees sold in contracts.
-        <br />
-        Why is real GDI growth per capita not considered shrinkflation to live?
-        Is output or leisure economic utility?
         <br />
         <div
           style={{
@@ -568,7 +576,7 @@ class App extends React.Component {
           <br />
           <br />
         </div>
-        26 Battin Road, Fair Haven, NJ 07704
+        Fair Haven, NJ
         <br />
         <br />
         <br />
