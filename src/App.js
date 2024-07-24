@@ -132,7 +132,10 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <h2>Nick Carducci for U.S. Senate</h2>
+        <h2>Nick Carducci for U.S. Senate 2026</h2>
+        Tax the Rich (remove tax deductions, tax corporations as income), cut
+        spending is a pipe dream.
+        <br />
         <span
           style={{
             color: "dodgerblue"
@@ -588,4 +591,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
