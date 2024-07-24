@@ -134,7 +134,8 @@ class App extends React.Component {
         </div>
         <h2>Nick Carducci for U.S. Senate 2026</h2>
         Tax the Rich (remove tax deductions, tax corporations as income), cut
-        spending is a pipe dream.
+        spending is a pipe dream. Bonds make the rich, richer. Wouldn't banning
+        invoices lessen prices?
         <br />
         <span
           style={{
@@ -591,3 +592,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
