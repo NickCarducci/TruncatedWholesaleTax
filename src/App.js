@@ -38,20 +38,20 @@ class App extends React.Component {
       <div
         style={{
           fontFamily: "'Pacifico', sans-serif",
-          maxWidth: "400px"
+          maxWidth: "400px",
         }}
       >
         <div
           style={{
             display: "flex",
-            flexWrap: "wrap"
+            flexWrap: "wrap",
           }}
         >
           <div
             style={{
               width: "100%",
               position: "fixed",
-              bottom: "0px"
+              bottom: "0px",
             }}
           >
             <div
@@ -61,7 +61,7 @@ class App extends React.Component {
                 width: "100%",
                 padding: "10px 0px",
                 backgroundColor: "dodgerblue",
-                color: "white"
+                color: "white",
               }}
             >
               venmo.com/nick4nj
@@ -73,7 +73,7 @@ class App extends React.Component {
                 width: "100%",
                 padding: "10px 0px",
                 backgroundColor: "black",
-                color: "white"
+                color: "white",
               }}
             >
               sayists@icloud.com
@@ -88,14 +88,14 @@ class App extends React.Component {
             style={{
               position: "relative",
               width: "calc(100% - 60px)",
-              maxWidth: "300px"
+              maxWidth: "300px",
             }}
           >
             <img
               style={{
                 border: "25px solid rgb(170,120,220)",
                 borderBottom: "70px solid rgb(170,120,220)",
-                width: "100%"
+                width: "100%",
               }}
               alt="Nick Carducci portrait"
               src="https://www.dropbox.com/scl/fi/xpju5ywam09gpomqkqxkh/portrait_Carducci.jpg?rlkey=qsi2213tnf6eadilxkbaoe7gh&raw=1"
@@ -108,12 +108,12 @@ class App extends React.Component {
                 bottom: "20px",
                 position: "absolute",
                 backgroundColor: "rgb(170,120,220)",
-                color: "white"
+                color: "white",
               }}
             >
               <a
                 style={{
-                  color: "white"
+                  color: "white",
                 }}
                 href="https://change.org/nickcarducci"
               >
@@ -123,7 +123,7 @@ class App extends React.Component {
               <br />
               <a
                 style={{
-                  color: "white"
+                  color: "white",
                 }}
                 href="https://account.venmo.com/u/nick4nj"
               >
@@ -133,13 +133,17 @@ class App extends React.Component {
           </div>
         </div>
         <h2>Nick Carducci for U.S. Senate 2026</h2>
-        Tax the Rich (remove tax deductions, tax corporations as income), cut
-        spending is a pipe dream. Bonds make the rich, richer. Wouldn't banning
-        invoices lessen prices?
+        <h3>
+          Risk-free depositaries, royalties instead of debt, and end the fed's
+          unemployment mandate!
+        </h3>
+        Tax the Rich (remove tax deductions, tax corporations as income),
+        assuming that to cut spending is a pipe dream. Bonds make the rich,
+        richer. Wouldn't banning invoices lessen prices?
         <br />
         <span
           style={{
-            color: "dodgerblue"
+            color: "dodgerblue",
             //We ban invoices and make all collateral debt a payday loan beyond the
             //cost of living.  Replace debt investment with limited royalties compound
           }}
@@ -151,7 +155,7 @@ class App extends React.Component {
         <br />
         <span
           style={{
-            color: "firebrick"
+            color: "firebrick",
             //Current mortgages can treat the lender as a realtor or refinance if
             //there is an auction lower.
             //In the event of defaulting on a home loan, banks are only allowed to
@@ -174,7 +178,7 @@ class App extends React.Component {
         <div
           style={{
             display: "none",
-            margin: "5px"
+            margin: "5px",
           }} //ban duress, shrinkflation only
         >
           <a href="https://treesdebindcarbon.quora.com/Why-is-growth-important-to-humans-1">
@@ -183,7 +187,7 @@ class App extends React.Component {
           <h2
             onClick={() =>
               this.setState({
-                openShrinkflation: !this.state.openShrinkflation
+                openShrinkflation: !this.state.openShrinkflation,
               })
             }
           >
@@ -211,7 +215,7 @@ class App extends React.Component {
         <div
           style={{
             display: !this.state.openShrinkflation && "none",
-            margin: "5px"
+            margin: "5px",
           }}
         >
           <h3
@@ -227,7 +231,7 @@ class App extends React.Component {
             with a new tax policy (taxparty.org) to{space}
             <span
               style={{
-                backgroundColor: "rgba(150,250,200,.7)"
+                backgroundColor: "rgba(150,250,200,.7)",
               }}
             >
               retire social security where income taxes lower by 1/78th annually
@@ -238,7 +242,7 @@ class App extends React.Component {
             <span
               style={{
                 display: "none",
-                backgroundColor: "rgba(240,230,180,.7)"
+                backgroundColor: "rgba(240,230,180,.7)",
               }}
             >
               social security liabilities can be paid by wealthy retirees
@@ -247,7 +251,7 @@ class App extends React.Component {
             ,{space}
             <span
               style={{
-                backgroundColor: "rgba(250,170,200,.7)"
+                backgroundColor: "rgba(250,170,200,.7)",
               }}
             >
               refine Medicaid where the Hippocratic Oath, namely for sutures and
@@ -258,7 +262,7 @@ class App extends React.Component {
             , and he wants to{space}
             <span
               style={{
-                backgroundColor: "rgba(210,180,250,.7)"
+                backgroundColor: "rgba(210,180,250,.7)",
               }}
             >
               end the fed where the Federal Reserve should be the only lender;
@@ -279,7 +283,7 @@ class App extends React.Component {
             <span
               style={{
                 backgroundColor: "black",
-                color: "white"
+                color: "white",
               }}
             >
               He thinks bills surrender the right to own of third party donee
@@ -305,8 +309,7 @@ class App extends React.Component {
             pharmaceutical deals expire, and it's best to make the central bank
             the only lender of bills, no notes nor bonds.
             {
-              space +
-                space /*He thinks shrinkflation causes
+              space + space /*He thinks shrinkflation causes
             growth, and interest payments need new money from quantitative
             easing to work.
             
@@ -323,7 +326,7 @@ class App extends React.Component {
             }
             <span
               style={{
-                backgroundColor: "rgba(150,200,250,.7)"
+                backgroundColor: "rgba(150,200,250,.7)",
               }}
             >
               In order to run for office under the banner-slogan “Risk-Free
@@ -396,7 +399,7 @@ class App extends React.Component {
             lastWidth={Math.min(600, this.props.width)}
             style={{
               paddingBottom: "15px",
-              backgroundColor: "rgb(190,150,180)"
+              backgroundColor: "rgb(190,150,180)",
             }}
           />
           <div
@@ -411,20 +414,20 @@ class App extends React.Component {
               left: "50px",
               bottom: "20px",
               backgroundColor: "black",
-              color: "white"
+              color: "white",
             }}
           >
             NO RECOURSE LOANS
             <img
               src="https://www.dropbox.com/s/8yxi9s12uwgz6lv/thumbprint_starter.png?raw=1"
               style={{
-                width: "30px"
+                width: "30px",
               }}
               alt="thumbprint logo"
             />
             <a
               style={{
-                color: "white"
+                color: "white",
               }}
               href="https://bankingisnot.biz"
             >
@@ -561,7 +564,7 @@ class App extends React.Component {
             href="https://humanharvest.info"
             style={{
               backgroundColor: "forestgreen",
-              color: "white"
+              color: "white",
             }}
           >
             humanharvest.info
@@ -572,7 +575,7 @@ class App extends React.Component {
             style={{
               height: "300px",
               width: "100%",
-              border: "0px solid"
+              border: "0px solid",
             }}
           />
           He wants to save borrowers from foreclosure by making lenders sell for
