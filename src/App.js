@@ -132,7 +132,11 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <h2>Nick Carducci for U.S. Senate 2026</h2>
+        <h1>Nick Carducci for U.S. Senate</h1>
+        <h2>
+          2026 Audit the Fed (who's selling their bonds), Full Reserve Banking,
+          Rent-to-Own for all tenants.
+        </h2>
         <h3>
           Risk-free depositaries, royalties instead of debt, and end the fed's
           unemployment mandate!
@@ -595,4 +599,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
