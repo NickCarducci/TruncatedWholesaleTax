@@ -132,7 +132,134 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <h1>Nick Carducci for U.S. Senate</h1>
+        <div
+          style={{ margin: "10px", border: "1px dotted grey", padding: "10px" }}
+        >
+          <p>
+            <strong>Nick Carducci for U.S. Senate 2026</strong>
+            {/*<br />
+            <strong>Tax Party – Because the Debt Is Yours, Not Theirs</strong>*/}
+          </p>
+          <p>
+            <strong>🏛️ Monetary Justice Begins With Honest Accounting:</strong>
+          </p>
+          <ul>
+            <li>
+              <p>
+                <strong>Audit the Federal Reserve</strong> — not just for
+                transparency, but to understand <em>who</em> is buying and
+                selling U.S. bonds. Why are future generations indebted to
+                today's billionaires, and why is the central bank bailing them
+                out in the open market?
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Full Reserve Banking</strong> — end the leverage
+                loophole. Banks cannot lend your deposits, just take
+                deposit/transaction fees. Let’s stop speculative finance from
+                inflating asset bubbles.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>End the Fed’s “Unemployment Mandate”</strong> — job
+                growth by monetary inflation leads to shrinkflation, not
+                prosperity. Real work deserves real purchasing power.
+              </p>
+            </li>
+          </ul>
+          <p>
+            <strong>🏦 Safe Savings, Not Risky Debt:</strong>
+          </p>
+          <ul>
+            <li>
+              <p>
+                <strong>Risk-free depositaries</strong> for regular savers, not
+                predatory banks. If you’re putting away money, you should be
+                insulated from Wall Street losses by preventing loans without
+                your consent or by duress.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Royalties instead of debt</strong> — fund new ventures
+                based on shared success, not compounding interest. Think Shark
+                Tank's Kevin O'Leary's non-dilutive profit-sharing strategy, not
+                loans.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Ban invoices where possible</strong> — simplify trade by
+                using prepayment and real-time pricing instead of vague,
+                post-service billing systems. It reduces overhead <em>and</em>{" "}
+                lowers costs.
+              </p>
+            </li>
+          </ul>
+          <p>
+            <strong>🏘️ End Unfair Leverage of Landlords and Lenders:</strong>
+          </p>
+          <ul>
+            <li>
+              <p>
+                <strong>Rent-to-own for all tenants</strong> — no more endless
+                renting. Landlords can lease a limited amount of properties, but
+                tenants should gain equity over time, not just pay someone
+                else’s mortgage.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Default protections that return equity</strong> — if
+                your asset is repossessed, you’re owed <em>your</em> payments
+                back. Repossession is not a license for profit beyond
+                appreciation.
+              </p>
+            </li>
+          </ul>
+          <p>
+            <strong>💰 Progressive Taxation That Doesn’t Punish Work:</strong>
+          </p>
+          <ul>
+            <li>
+              <p>
+                <strong>Progressive consumption tax</strong> to replace
+                corporate and income taxes. This levels the playing field—no
+                more business owners hiding behind wage and operating cost
+                deductions.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Tax corporations as income</strong> — no more special
+                treatment for legal fictions. A business is a taxpayer, just
+                like you.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Eliminate all tax deductions</strong> — no loopholes, no
+                games. The rich should pay on what they take, not what they
+                hide.
+              </p>
+            </li>
+          </ul>
+          <p>
+            <strong>🌄 Public Land Belongs to the People:</strong>
+          </p>
+          <ul>
+            <li>
+              <p>
+                The U.S. federal interior is already owned by dollar holders—not
+                by the bond markets. We must not default and surrender this
+                asset collection to private creditors.
+              </p>
+            </li>
+          </ul>
+        </div>
+        {/*<h1>Nick Carducci for U.S. Senate</h1>
         <h2>
           2026 Audit the Fed (who's selling their bonds), Full Reserve Banking,
           Rent-to-Own for all tenants.
@@ -177,7 +304,7 @@ class App extends React.Component {
           instance, the equity returns to the borrower who couldn't keep up with
           their payments, and so that they can benefit from the equity in their
           investment.
-        </span>
+        </span>*/}
         <br />
         <div
           style={{
@@ -587,7 +714,7 @@ class App extends React.Component {
           <br />
           <br />
         </div>
-        Fair Haven, NJ
+        Leonardo, NJ
         <br />
         <br />
         <br />
@@ -599,3 +726,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
